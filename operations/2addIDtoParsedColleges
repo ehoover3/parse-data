@@ -1,0 +1,20 @@
+const fs = require("fs");
+const colleges = require("./data/colleges.json");
+
+let updatedColleges = [];
+
+for (let i = 1; i < colleges.length; i++) {
+  let updatedArrayItem = {
+    id: i,
+    collegeName: colleges[i].collegeName,
+    state: colleges[i].state,
+    tuition: colleges[i].tuition,
+    website: colleges[i].website,
+  };
+  updatedColleges.push(updatedArrayItem);
+}
+
+fs.writeFile("parsedColleges.json", JSON.stringify(updatedColleges), (err) => {
+  if (err) throw err;
+  console.log("Data written to file successfully!");
+});

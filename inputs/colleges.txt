@@ -1,0 +1,3441 @@
+William & Mary	VA	23,628
+University of Pittsburgh-Pittsburgh Campus	PA	19,678
+Virginia Military Institute	VA	19,210
+Colorado School of Mines	CO	19,100
+University of Vermont	VT	19,062
+University of Virginia-Main Campus	VA	18,960
+University of New Hampshire-Main Campus	NH	18,938
+The Pennsylvania State University	PA	18,450
+University of Connecticut	CT	17,834
+New Jersey Institute of Technology	NJ	17,674
+Pennsylvania College of Technology	PA	17,610
+Temple University	PA	16,970
+University of Massachusetts-Amherst	MA	16,439
+Michigan Technological University	MI	16,436
+Miami University-Oxford	OH	16,223
+Vermont Technical College	VT	16,044
+The College of New Jersey	NJ	16,029
+University of Michigan-Ann Arbor	MI	15,948
+Winthrop University	SC	15,836
+University of New Hampshire at Manchester	NH	15,778
+University of Massachusetts-Lowell	MA	15,698
+Clemson University	SC	15,558
+Carolinas College of Health Sciences	NC	15,424
+Illinois State University	IL	15,319
+University of Connecticut-Stamford	CT	15,256
+University of Connecticut-Avery Point	CT	15,246
+University of Connecticut-Waterbury Campus	CT	15,246
+University of Connecticut-Hartford Campus	CT	15,236
+University of Illinois Urbana-Champaign	IL	15,150
+St. Mary's College of Maryland	MD	15,124
+Southern Illinois University-Carbondale	IL	15,104
+University of Minnesota-Twin Cities	MN	15,027
+University of Rhode Island	RI	15,004
+Rutgers University-New Brunswick	NJ	15,003
+Ramapo College of New Jersey	NJ	14,952
+Christopher Newport University	VA	14,924
+Rutgers University-Camden	NJ	14,877
+New Jersey City University	NJ	14,738
+Virginia Commonwealth University	VA	14,710
+University of Massachusetts-Boston	MA	14,677
+University of Delaware	DE	14,660
+University of California-San Diego	CA	14,648
+Keene State College	NH	14,638
+University of California-Davis	CA	14,597
+Rutgers University-Newark	NJ	14,502
+Plymouth State University	NH	14,492
+Michigan State University	MI	14,460
+University of Massachusetts-Dartmouth	MA	14,408
+University of California-Santa Barbara	CA	14,406
+Stockton University	NJ	14,329
+University of California-Berkeley	CA	14,312
+Massachusetts College of Art and Design	MA	14,200
+University of Pittsburgh-Greensburg	PA	14,114
+University of California-Merced	CA	14,100
+University of Illinois Chicago	IL	14,098
+University of Pittsburgh-Johnstown	PA	14,090
+University of Pittsburgh-Bradford	PA	14,082
+Maine Maritime Academy	ME	14,058
+University of California-Santa Cruz	CA	14,025
+University of California-Riverside	CA	14,024
+The University of Texas at Dallas	TX	13,992
+Oakland University	MI	13,934
+Longwood University	VA	13,910
+University of Oregon	OR	13,857
+University of Mary Washington	VA	13,845
+Eastern Michigan University	MI	13,810
+William Paterson University of New Jersey	NJ	13,770
+University of California-Irvine	CA	13,753
+Virginia Polytechnic Institute and State University	VA	13,749
+University of Montevallo	AL	13,710
+University of Minnesota-Morris	MN	13,578
+University of Minnesota-Duluth	MN	13,576
+University of Michigan-Dearborn	MI	13,552
+Shippensburg University of Pennsylvania	PA	13,544
+Wayne State University	MI	13,517
+Western Illinois University	IL	13,314
+The University of Tennessee-Knoxville	TN	13,264
+University of California-Los Angeles	CA	13,249
+Grand Valley State University	MI	13,244
+Indiana University of Pennsylvania-Main Campus	PA	13,144
+Montclair State University	NJ	13,073
+Castleton University	VT	13,044
+Western Michigan University	MI	13,017
+George Mason University	VA	13,014
+College of Charleston	SC	12,978
+Central Michigan University	MI	12,960
+Rowan University	NJ	12,939
+Georgia Institute of Technology-Main Campus	GA	12,852
+University of Minnesota-Rochester	MN	12,850
+Northern Vermont University	VT	12,804
+Texas A & M University-College Station	TX	12,783
+Lake Superior State University	MI	12,744
+University of Michigan-Flint	MI	12,744
+University of Arizona	AZ	12,716
+University of South Carolina-Columbia	SC	12,688
+Citadel Military College of South Carolina	SC	12,620
+Ohio University-Main Campus	OH	12,612
+University of Kentucky	KY	12,484
+University of Colorado Boulder	CO	12,466
+Kean University	NJ	12,445
+Northern Michigan University	MI	12,402
+Ferris State University	MI	12,376
+Northern Illinois University	IL	12,352
+James Madison University	VA	12,330
+Eastern Connecticut State University	CT	12,304
+Southern Illinois University-Edwardsville	IL	12,219
+University of Hawaii at Manoa	HI	12,186
+Washington State University	WA	12,170
+University of Louisville	KY	12,162
+University of Cincinnati-Main Campus	OH	12,138
+Eastern Illinois University	IL	12,136
+University of Georgia	GA	12,080
+University of Minnesota-Crookston	MN	12,014
+Louisiana State University and Agricultural & Mechanical College	LA	11,962
+University of Illinois Springfield	IL	11,911
+Northern Arizona University	AZ	11,896
+University of Washington-Tacoma Campus	WA	11,889
+University of Akron Main Campus	OH	11,881
+Oregon State University	OR	11,858
+Northeastern Illinois University	IL	11,827
+Colorado State University-Fort Collins	CO	11,814
+Southern Connecticut State University	CT	11,802
+Auburn University	AL	11,796
+Western Connecticut State University	CT	11,781
+University of Washington-Seattle Campus	WA	11,745
+University of Maine	ME	11,744
+Lander University	SC	11,700
+University of Oklahoma-Norman Campus	OK	11,688
+Massachusetts Maritime Academy	MA	11,687
+Salem State University	MA	11,675
+Millersville University of Pennsylvania	PA	11,665
+University of Washington-Bothell Campus	WA	11,649
+Coastal Carolina University	SC	11,640
+The University of Alabama	AL	11,620
+Texas Tech University	TX	11,600
+University of South Carolina-Upstate	SC	11,583
+Bowling Green State University-Main Campus	OH	11,573
+East Stroudsburg University of Pennsylvania	PA	11,559
+Ohio State University-Main Campus	OH	11,518
+Central Connecticut State University	CT	11,502
+The University of Texas at Austin	TX	11,448
+Radford University	VA	11,416
+Framingham State University	MA	11,380
+The University of Texas at Arlington	TX	11,378
+Arizona State University Campus Immersion	AZ	11,338
+University of Alabama in Huntsville	AL	11,338
+Massachusetts College of Liberal Arts	MA	11,306
+Oregon Institute of Technology	OR	11,269
+Lincoln University	PA	11,266
+Indiana University-Bloomington	IN	11,221
+Chicago State University	IL	11,204
+Clarion University of Pennsylvania	PA	11,199
+Cleveland State University	OH	11,185
+University of Kansas	KS	11,166
+Francis Marion University	SC	11,160
+Kutztown University of Pennsylvania	PA	11,156
+Westfield State University	MA	11,139
+Jacksonville State University	AL	11,120
+California University of Pennsylvania	PA	11,108
+Prairie View A & M University	TX	11,099
+University of North Texas	TX	11,090
+University of Toledo	OH	11,082
+Alabama State University	AL	11,068
+South Carolina State University	SC	11,060
+South Dakota School of Mines and Technology	SD	11,020
+Kent State University at Kent	OH	11,009
+University of West Alabama	AL	10,990
+Bloomsburg University of Pennsylvania	PA	10,958
+Cheyney University of Pennsylvania	PA	10,904
+Lock Haven University	PA	10,878
+Texas State University	TX	10,855
+The University of Virginia's College at Wise	VA	10,836
+Fitchburg State University	MA	10,830
+Arizona State University Digital Immersion	AZ	10,818
+Saginaw Valley State University	MI	10,814
+Western Kentucky University	KY	10,802
+Old Dominion University	VA	10,800
+University of Maryland-College Park	MD	10,779
+University of South Carolina Aiken	SC	10,760
+University of Wisconsin-Madison	WI	10,742
+Oregon State University-Cascades Campus	OR	10,737
+Bridgewater State University	MA	10,732
+University of South Carolina Beaufort	SC	10,730
+University of Missouri-Columbia	MO	10,723
+Southern Oregon University	OR	10,710
+Mansfield University of Pennsylvania	PA	10,660
+Western Colorado University	CO	10,646
+University of North Alabama	AL	10,620
+Stephen F Austin State University	TX	10,600
+Worcester State University	MA	10,586
+University of Missouri-St Louis	MO	10,573
+Edinboro University of Pennsylvania	PA	10,544
+University at Buffalo	NY	10,526
+West Chester University of Pennsylvania	PA	10,471
+Kansas State University	KS	10,466
+University of Louisiana at Lafayette	LA	10,358
+Northern Kentucky University	KY	10,296
+University of North Dakota	ND	10,276
+Rhode Island College	RI	10,260
+Towson University	MD	10,198
+Western Oregon University	OR	10,194
+North Dakota State University-Main Campus	ND	10,168
+Purdue University Global	IN	10,167
+Missouri University of Science and Technology	MO	10,165
+SUNY at Albany	NY	10,160
+University of Missouri-Kansas City	MO	10,145
+Ball State University	IN	10,144
+Portland State University	OR	10,112
+Governors State University	IL	10,108
+Stony Brook University	NY	10,091
+California Polytechnic State University-San Luis Obispo	CA	10,071
+Louisiana Tech University	LA	10,065
+University of Northern Colorado	CO	10,062
+Salisbury University	MD	10,044
+Alabama A & M University	AL	10,024
+Binghamton University	NY	10,014
+Wright State University-Main Campus	OH	10,012
+Purdue University-Main Campus	IN	9,992
+Slippery Rock University of Pennsylvania	PA	9,984
+Indiana University-Purdue University-Indianapolis	IN	9,944
+University of Memphis	TN	9,912
+Eastern Kentucky University	KY	9,876
+Texas A & M University-Commerce	TX	9,820
+Midwestern State University	TX	9,796
+Winona State University	MN	9,780
+Texas A & M University-Kingsville	TX	9,779
+The University of Tennessee-Martin	TN	9,748
+University of Nebraska-Lincoln	NE	9,690
+The University of Tennessee-Chattanooga	TN	9,656
+Youngstown State University	OH	9,656
+Tennessee Technological University	TN	9,636
+Norfolk State University	VA	9,622
+University of Iowa	IA	9,606
+University of Maine at Farmington	ME	9,572
+Adams State University	CO	9,560
+Texas A & M University-Corpus Christi	TX	9,553
+Dakota State University	SD	9,536
+University of Southern Maine	ME	9,528
+Georgia College & State University	GA	9,524
+University of Wisconsin-Stout	WI	9,488
+Indiana State University	IN	9,466
+University of Houston	TX	9,457
+The University of Texas at El Paso	TX	9,450
+University of Maryland-Baltimore County	MD	9,420
+Frostburg State University	MD	9,410
+Eastern Oregon University	OR	9,405
+University of Colorado Denver/Anschutz Medical Campus	CO	9,401
+University of Arkansas	AR	9,384
+University of North Carolina School of the Arts	NC	9,358
+Southern University and A & M College	LA	9,340
+University of Central Arkansas	AR	9,338
+University of South Dakota	SD	9,332
+Iowa State University	IA	9,316
+Morehead State University	KY	9,290
+Georgia State University	GA	9,286
+University of Southern Indiana	IN	9,285
+East Tennessee State University	TN	9,259
+University of Wisconsin-Milwaukee	WI	9,254
+South Dakota State University	SD	9,200
+Texas Southern University	TX	9,173
+Murray State University	KY	9,168
+University of Wisconsin-La Crosse	WI	9,160
+Virginia State University	VA	9,154
+The University of Texas at Tyler	TX	9,146
+SUNY College of Environmental Science and Forestry	NY	9,130
+North Carolina State University at Raleigh	NC	9,101
+University of Baltimore	MD	9,096
+Southern Arkansas University Main Campus	AR	9,080
+Bemidji State University	MN	9,076
+University of New Orleans	LA	9,072
+Middle Tennessee State University	TN	9,070
+University of Louisiana at Monroe	LA	9,070
+Southwest Minnesota State University	MN	9,058
+Augusta University	GA	9,022
+Oklahoma State University-Main Campus	OK	9,019
+Tennessee State University	TN	9,012
+Minnesota State University Moorhead	MN	8,980
+University of North Carolina at Chapel Hill	NC	8,980
+West Virginia University	WV	8,976
+SUNY at Purchase College	NY	8,953
+University of Northern Iowa	IA	8,938
+The University of Texas Rio Grande Valley	TX	8,917
+Mississippi State University	MS	8,910
+Troy University	AL	8,908
+Texas A&M University-San Antonio	TX	8,901
+Fort Lewis College	CO	8,896
+University of Southern Mississippi	MS	8,896
+Missouri Western State University	MO	8,875
+University of Wisconsin-Eau Claire	WI	8,870
+Auburn University at Montgomery	AL	8,860
+SUNY College at Geneseo	NY	8,856
+University of Mississippi	MS	8,828
+Kentucky State University	KY	8,800
+Saint Cloud State University	MN	8,779
+Sul Ross State University	TX	8,777
+Utah State University	UT	8,764
+Washburn University	KS	8,762
+Northern State University	SD	8,750
+SUNY Morrisville	NY	8,740
+SUNY Oneonta	NY	8,740
+Sam Houston State University	TX	8,736
+Purdue University Fort Wayne	IN	8,730
+SUNY College of Technology at Alfred	NY	8,726
+Metropolitan State University of Denver	CO	8,693
+SUNY College of Technology at Canton	NY	8,689
+Colorado Mesa University	CO	8,686
+University of Nevada-Las Vegas	NV	8,685
+SUNY Cortland	NY	8,677
+Black Hills State University	SD	8,672
+Northwestern State University of Louisiana	LA	8,672
+SUNY College at Oswego	NY	8,651
+SUNY College of Technology at Delhi	NY	8,640
+SUNY Brockport	NY	8,624
+University of Alaska Anchorage	AK	8,622
+University of Utah	UT	8,615
+Shawnee State University	OH	8,604
+Colorado State University Pueblo	CO	8,591
+Lamar University	TX	8,591
+SUNY College of Agriculture and Technology at Cobleskill	NY	8,591
+University of Maine at Presque Isle	ME	8,585
+University of Colorado Colorado Springs	CO	8,580
+SUNY College at Plattsburgh	NY	8,574
+University of Alabama at Birmingham	AL	8,568
+Minnesota State University-Mankato	MN	8,566
+The University of Texas at San Antonio	TX	8,566
+University of Maryland Eastern Shore	MD	8,558
+SUNY College at Potsdam	NY	8,554
+Charter Oak State College	CT	8,553
+SUNY Maritime College	NY	8,522
+Marshall University	WV	8,512
+Western Washington University	WA	8,508
+Northwest Missouri State University	MO	8,500
+SUNY at Fredonia	NY	8,492
+University of Maine at Fort Kent	ME	8,475
+West Texas A & M University	TX	8,456
+Jackson State University	MS	8,445
+Bowie State University	MD	8,444
+Central Washington University	WA	8,444
+West Virginia State University	WV	8,437
+Wichita State University	KS	8,433
+SUNY Buffalo State	NY	8,428
+SUNY Polytechnic Institute	NY	8,427
+State University of New York at New Paltz	NY	8,416
+Colorado State University-Global Campus	CO	8,400
+University of South Alabama	AL	8,396
+Farmingdale State College	NY	8,395
+Concord University	WV	8,385
+McNeese State University	LA	8,382
+University of Maine at Augusta	ME	8,378
+Lincoln University	MO	8,370
+University of Arkansas at Little Rock	AR	8,366
+University of Nevada-Reno	NV	8,366
+New Mexico Institute of Mining and Technology	NM	8,361
+Delaware State University	DE	8,358
+The Evergreen State College	WA	8,325
+University of Central Missouri	MO	8,306
+University of Idaho	ID	8,304
+Austin Peay State University	TN	8,303
+University of Wisconsin-Stevens Point	WI	8,300
+Truman State University	MO	8,299
+Southeastern Louisiana University	LA	8,289
+Tarleton State University	TX	8,276
+Texas Woman's University	TX	8,255
+University of Maine at Machias	ME	8,252
+Metropolitan State University	MN	8,249
+University of Arkansas at Pine Bluff	AR	8,248
+Ohio State University-Lima Campus	OH	8,237
+Ohio State University-Mansfield Campus	OH	8,237
+Ohio State University-Marion Campus	OH	8,237
+Ohio State University-Newark Campus	OH	8,237
+Northwestern Oklahoma State University	OK	8,173
+University of New Mexico-Main Campus	NM	8,161
+West Liberty University	WV	8,150
+University of North Texas at Dallas	TX	8,143
+University of Wisconsin-Superior	WI	8,140
+University of Nebraska at Omaha	NE	8,136
+Dickinson State University	ND	8,122
+SUNY College at Old Westbury	NY	8,122
+Delta State University	MS	8,121
+Boise State University	ID	8,068
+University of Wisconsin-River Falls	WI	8,063
+University of Science and Arts of Oklahoma	OK	8,040
+Southeast Missouri State University	MO	8,033
+University of Nebraska at Kearney	NE	7,962
+Sonoma State University	CA	7,952
+Nicholls State University	LA	7,946
+Purdue University Northwest	IN	7,942
+Valley City State University	ND	7,942
+Missouri State University-Springfield	MO	7,938
+Peru State College	NE	7,920
+Southwestern Oklahoma State University	OK	7,913
+University of Arkansas at Monticello	AR	7,909
+Angelo State University	TX	7,907
+Minot State University	ND	7,896
+Glenville State College	WV	7,886
+University of Wisconsin-Green Bay	WI	7,873
+University of Wisconsin-Platteville	WI	7,873
+Idaho State University	ID	7,872
+California State University-Chico	CA	7,864
+Humboldt State University	CA	7,858
+San Jose State University	CA	7,852
+University of Hawaii at Hilo	HI	7,838
+University of Central Oklahoma	OK	7,817
+Granite State College	NH	7,791
+Shepherd University	WV	7,784
+Texas A&M University-Texarkana	TX	7,764
+Fairmont State University	WV	7,738
+University of Wisconsin-Whitewater	WI	7,735
+Eastern Washington University	WA	7,733
+San Diego State University	CA	7,720
+University of Wisconsin-Oshkosh	WI	7,717
+Indiana University-East	IN	7,715
+Indiana University-Kokomo	IN	7,715
+Indiana University-Northwest	IN	7,715
+Indiana University-South Bend	IN	7,715
+Indiana University-Southeast	IN	7,715
+California State University-San Marcos	CA	7,712
+Texas A & M International University	TX	7,683
+Bluefield State College	WV	7,680
+Arkansas Tech University	AR	7,668
+Grambling State University	LA	7,635
+Chadron State College	NE	7,634
+SUNY Empire State College	NY	7,630
+Morgan State University	MD	7,628
+California State University-Stanislaus	CA	7,584
+University of Hawaii-West Oahu	HI	7,584
+University of Maryland Global Campus	MD	7,560
+West Virginia University Institute of Technology	WV	7,560
+CUNY Queens College	NY	7,538
+Mississippi University for Women	MS	7,525
+Pittsburg State University	KS	7,504
+University of Houston-Clear Lake	TX	7,504
+California State University-Bakersfield	CA	7,498
+College of Staten Island CUNY	NY	7,490
+CUNY John Jay College of Criminal Justice	NY	7,470
+Rogers State University	OK	7,470
+CUNY Bernard M Baruch College	NY	7,462
+University of Wisconsin-Parkside	WI	7,444
+CUNY Brooklyn College	NY	7,440
+California State Polytechnic University-Pomona	CA	7,438
+The University of Montana	MT	7,430
+Wayne State College	NE	7,428
+California State University-Sacramento	CA	7,418
+Appalachian State University	NC	7,410
+CUNY Lehman College	NY	7,410
+University of North Carolina at Greensboro	NC	7,403
+Henderson State University	AR	7,392
+Montana Technological University	MT	7,390
+Oklahoma Panhandle State University	OK	7,384
+CUNY Hunter College	NY	7,382
+Mayville State University	ND	7,381
+Montana State University	MT	7,371
+CUNY York College	NY	7,358
+CUNY Medgar Evers College	NY	7,352
+CUNY City College	NY	7,340
+CUNY New York City College of Technology	NY	7,320
+Arkansas State University	AR	7,315
+University of Houston-Victoria	TX	7,313
+New Mexico State University-Main Campus	NM	7,301
+Alcorn State University	MS	7,290
+University of North Carolina at Asheville	NC	7,244
+East Carolina University	NC	7,239
+University of Houston-Downtown	TX	7,222
+Thomas Edison State University	NJ	7,182
+University of North Carolina Wilmington	NC	7,181
+University of Alaska Fairbanks	AK	7,176
+California State University Maritime Academy	CA	7,160
+Louisiana State University-Shreveport	LA	7,160
+California State University-Monterey Bay	CA	7,147
+University of North Carolina at Charlotte	NC	7,096
+Southern University at New Orleans	LA	7,059
+East Central University	OK	7,052
+California State University-Northridge	CA	7,017
+San Francisco State University	CA	7,006
+Lewis-Clark State College	ID	6,982
+Emporia State University	KS	6,971
+Missouri Southern State University	MO	6,964
+University of Alaska Southeast	AK	6,960
+California State University-Fullerton	CA	6,953
+California State University-San Bernardino	CA	6,952
+California State University-Dominguez Hills	CA	6,941
+New College of Florida	FL	6,916
+Northeastern State University	OK	6,915
+California State University-East Bay	CA	6,890
+California State University-Long Beach	CA	6,834
+California State University-Channel Islands	CA	6,802
+Northwest Indian College	WA	6,787
+California State University-Los Angeles	CA	6,781
+Southern Utah University	UT	6,770
+Southeastern Oklahoma State University	OK	6,750
+University of Wisconsin-Milwaukee Flex	WI	6,750
+University of Wisconsin-Parkside Flex	WI	6,750
+Mississippi Valley State University	MS	6,746
+Central State University	OH	6,726
+Coppin State University	MD	6,716
+Wright State University-Lake Campus	OH	6,716
+Jackson College	MI	6,703
+North Carolina A & T State University	NC	6,657
+Eastern New Mexico University-Main Campus	NM	6,648
+California State University-Fresno	CA	6,643
+Louisiana State University-Alexandria	LA	6,638
+North Carolina Central University	NC	6,629
+Georgia Military College	GA	6,615
+Valdosta State University	GA	6,583
+Western New Mexico University	NM	6,574
+Florida International University	FL	6,565
+Miami University-Hamilton	OH	6,565
+Miami University-Middletown	OH	6,565
+New Mexico Highlands University	NM	6,558
+University of West Georgia	GA	6,521
+Langston University	OK	6,509
+Georgia Southern University	GA	6,485
+Texas A&M University-Central Texas	TX	6,483
+Cameron University	OK	6,450
+Kennesaw State University	GA	6,436
+University of South Florida	FL	6,410
+University of North Florida	FL	6,389
+University of Florida	FL	6,381
+University of Central Florida	FL	6,368
+The University of West Florida	FL	6,360
+University of Cincinnati-Blue Ash College	OH	6,256
+University of Puerto Rico-Carolina	PR	6,252
+Vincennes University	IN	6,251
+Columbus State University	GA	6,241
+Kent State University at Ashtabula	OH	6,229
+Kent State University at East Liverpool	OH	6,229
+Kent State University at Geauga	OH	6,229
+Kent State University at Salem	OH	6,229
+Kent State University at Stark	OH	6,229
+Kent State University at Trumbull	OH	6,229
+Kent State University at Tuscarawas	OH	6,229
+University of the District of Columbia	DC	6,152
+Florida Gulf Coast University	FL	6,118
+Nevada State College	NV	6,075
+Montana State University Billings	MT	5,980
+Weber State University	UT	5,956
+Montana State University-Northern	MT	5,955
+Winston-Salem State University	NC	5,941
+Albany State University	GA	5,934
+Fashion Institute of Technology	NY	5,913
+Utah Valley University	UT	5,906
+Savannah State University	GA	5,902
+University of Cincinnati-Clermont College	OH	5,864
+University of Guam	GU	5,846
+Fort Valley State University	GA	5,832
+University of Wyoming	WY	5,791
+Florida Agricultural and Mechanical University	FL	5,785
+Oklahoma State University Institute of Technology	OK	5,774
+Columbia Basin College	WA	5,755
+University of Arkansas-Fort Smith	AR	5,754
+The University of Montana-Western	MT	5,747
+Clover Park Technical College	WA	5,740
+Ohio University-Chillicothe Campus	OH	5,674
+Ohio University-Eastern Campus	OH	5,674
+Ohio University-Lancaster Campus	OH	5,674
+Ohio University-Southern Campus	OH	5,674
+Ohio University-Zanesville Campus	OH	5,674
+Renton Technical College	WA	5,671
+Dixie State University	UT	5,662
+Florida State University	FL	5,656
+Clayton  State University	GA	5,568
+Harris-Stowe State University	MO	5,484
+Georgia Southwestern State University	GA	5,464
+Zane State College	OH	5,456
+Fort Hays State University	KS	5,430
+Fayetteville State University	NC	5,309
+University of the Virgin Islands	VI	5,235
+Bowling Green State University-Firelands	OH	5,159
+Oklahoma State University-Oklahoma City	OK	5,070
+Cincinnati State Technical and Community College	OH	5,040
+University of North Georgia	GA	4,976
+Northern New Mexico College	NM	4,952
+Georgia Gwinnett College	GA	4,948
+Delaware Technical Community College-Terry	DE	4,945
+Florida Polytechnic University	FL	4,940
+Florida Atlantic University	FL	4,879
+The University of Texas Permian Basin	TX	4,837
+Walla Walla Community College	WA	4,818
+University of Puerto Rico-Aguadilla	PR	4,798
+Community College of Denver	CO	4,788
+Ilisagvik College	AK	4,780
+Greenville Technical College	SC	4,778
+Yakima Valley College	WA	4,770
+Whatcom Community College	WA	4,764
+College of Micronesia-FSM	FM	4,750
+Bismarck State College	ND	4,731
+Institute of American Indian and Alaska Native Culture and Arts Development	NM	4,726
+Alpena Community College	MI	4,710
+Centralia College	WA	4,652
+Lac Courte Oreilles Ojibwe College	WI	4,590
+Tacoma Community College	WA	4,560
+Potomac State College of West Virginia University	WV	4,536
+Madison Area Technical College	WI	4,530
+Pueblo Community College	CO	4,520
+Lake Washington Institute of Technology	WA	4,510
+Northwestern Michigan College	MI	4,504
+Central Wyoming College	WY	4,500
+North Central State College	OH	4,468
+Laramie County Community College	WY	4,432
+Red Rocks Community College	CO	4,379
+Wenatchee Valley College	WA	4,320
+Salish Kootenai College	MT	4,311
+Grays Harbor College	WA	4,296
+College of the Marshall Islands	MH	4,295
+Western Carolina University	NC	4,285
+Green River College	WA	4,233
+Highline College	WA	4,231
+South Texas College	TX	4,230
+Cascadia College	WA	4,226
+Peninsula College	WA	4,218
+South Seattle College	WA	4,214
+University of Puerto Rico-Cayey	PR	4,208
+University of Puerto Rico-Humacao	PR	4,208
+University of Arkansas System eVersity	AR	4,200
+University of Puerto Rico-Bayamon	PR	4,198
+University of Puerto Rico-Ponce	PR	4,198
+University of Puerto Rico-Rio Piedras	PR	4,198
+University of Puerto Rico-Arecibo	PR	4,178
+Pierce College District	WA	4,173
+University of Puerto Rico-Mayaguez	PR	4,168
+University of Puerto Rico-Utuado	PR	4,168
+North Seattle College	WA	4,123
+Edmonds College	WA	4,107
+Navajo Technical University	NM	4,070
+Lower Columbia College	WA	4,068
+Middle Georgia State University	GA	4,060
+Seattle Central College	WA	4,053
+Northern Marianas College	MP	4,038
+Clark State Community College	OH	4,032
+Front Range Community College	CO	4,032
+Arapahoe Community College	CO	4,027
+Sitting Bull College	ND	4,010
+Skagit Valley College	WA	4,000
+Olympic College	WA	3,971
+Pikes Peak Community College	CO	3,967
+Schoolcraft College	MI	3,960
+Bellevue College	WA	3,958
+Clark College	WA	3,957
+American Samoa Community College	AS	3,950
+Escuela de Artes Plasticas y Diseno de Puerto Rico	PR	3,942
+College of Coastal Georgia	GA	3,933
+Bellingham Technical College	WA	3,915
+Snow College	UT	3,912
+West Virginia University at Parkersburg	WV	3,890
+College of Southern Nevada	NV	3,878
+University of Florida-Online	FL	3,876
+Nueta Hidatsa Sahnish College	ND	3,870
+Morgan Community College	CO	3,850
+Gordon State College	GA	3,789
+Lorain County Community College	OH	3,745
+Spokane Community College	WA	3,727
+Spokane Falls Community College	WA	3,727
+Dalton State College	GA	3,683
+Abraham Baldwin Agricultural College	GA	3,565
+Western Nevada College	NV	3,548
+Atlanta Metropolitan State College	GA	3,505
+University of North Carolina at Pembroke	NC	3,456
+Guam Community College	GU	3,414
+Florida SouthWestern State College	FL	3,401
+Conservatory of Music of Puerto Rico	PR	3,370
+Polk State College	FL	3,366
+College of Southern Idaho	ID	3,360
+Georgia Highlands College	GA	3,344
+Bay Mills Community College	MI	3,320
+South Georgia State College	GA	3,310
+Weatherford College	TX	3,300
+Lake-Sumter State College	FL	3,292
+Laredo College	TX	3,280
+University of Hawaii Maui College	HI	3,278
+The College of the Florida Keys	FL	3,276
+Elizabeth City State University	NC	3,260
+Great Basin College	NV	3,248
+Henry Ford College	MI	3,208
+Sinclair Community College	OH	3,195
+South Florida State College	FL	3,165
+Pasco-Hernando State College	FL	3,155
+Sinte Gleska University	SD	3,154
+East Georgia State College	GA	3,136
+Northwest Florida State College	FL	3,133
+Seminole State College of Florida	FL	3,131
+Chipola College	FL	3,120
+Daytona State College	FL	3,106
+Florida Gateway College	FL	3,100
+State College of Florida-Manatee-Sarasota	FL	3,074
+North Florida College	FL	3,054
+Tyler Junior College	TX	2,962
+Florida State College at Jacksonville	FL	2,878
+Truckee Meadows Community College	NV	2,862
+Miami Dade College	FL	2,838
+Broward College	FL	2,830
+Saint Johns River State College	FL	2,830
+Indian River State College	FL	2,764
+Midland College	TX	2,730
+College of Central Florida	FL	2,710
+Grayson College	TX	2,702
+Oglala Lakota College	SD	2,684
+St Petersburg College	FL	2,682
+Stone Child College	MT	2,645
+Santa Fe College	FL	2,563
+Austin Community College District	TX	2,550
+Eastern Florida State College	FL	2,496
+Valencia College	FL	2,474
+Palm Beach State College	FL	2,444
+Aaniiih Nakoda College	MT	2,410
+Brazosport College	TX	2,401
+Dallas College	TX	2,370
+Gulf Coast State College	FL	2,370
+Pensacola State College	FL	2,364
+Colegio Universitario de San Juan	PR	2,340
+Colorado Mountain College	CO	2,340
+Galveston College	TX	2,290
+Odessa College	TX	2,280
+Lone Star College System	TX	2,160
+Tallahassee Community College	FL	2,026
+San Jacinto Community College	TX	1,872
+Collin County Community College District	TX	1,624
+Foothill College	CA	1,563
+Feather River Community College District	CA	1,465
+Bakersfield College	CA	1,418
+Dine College	AZ	1,410
+Rio Hondo College	CA	1,360
+Modesto Junior College	CA	1,270
+West Los Angeles College	CA	1,238
+Shasta College	CA	1,187
+Solano Community College	CA	1,168
+Santa Ana College	CA	1,160
+MiraCosta College	CA	1,152
+Santa Monica College	CA	1,148
+Cypress College	CA	1,146
+San Diego Mesa College	CA	1,144
+Antelope Valley College	CA	1,124
+United States Merchant Marine Academy	NY	1,095
+Haskell Indian Nations University	KS	480
+Columbia University in the City of New York	NY	61,671
+Bard College at Simon's Rock	MA	61,169
+Franklin and Marshall College	PA	61,062
+Vassar College	NY	60,930
+Amherst College	MA	60,890
+Colorado College	CO	60,864
+Tufts University	MA	60,862
+Brown University	RI	60,696
+Reed College	OR	60,620
+University of Chicago	IL	60,552
+Landmark College	VT	60,280
+University of Southern California	CA	60,275
+Boston College	MA	60,202
+Dartmouth College	NH	60,117
+University of Pennsylvania	PA	60,042
+Colgate University	NY	60,015
+Wesleyan University	CT	59,686
+Union College	NY	59,502
+Colby College	ME	59,430
+Carleton College	MN	59,352
+Cornell University	NY	59,282
+Haverford College	PA	59,162
+Trinity College	CT	59,050
+Connecticut College	CT	59,025
+Tulane University of Louisiana	LA	58,852
+Carnegie Mellon University	PA	58,810
+St Lawrence University	NY	58,750
+Jewish Theological Seminary of America	NY	58,703
+Northwestern University	IL	58,701
+Harvey Mudd College	CA	58,660
+Hobart William Smith Colleges	NY	58,650
+George Washington University	DC	58,640
+Oberlin College	OH	58,554
+Southern Methodist University	TX	58,540
+Hamilton College	NY	58,510
+Gettysburg College	PA	58,500
+Macalester College	MN	58,478
+Wellesley College	MA	58,448
+Middlebury College	VT	58,316
+Skidmore College	NY	58,278
+University of Rochester	NY	58,241
+Bucknell University	PA	58,202
+Bennington College	VT	58,124
+Boston University	MA	58,072
+Pepperdine University	CA	58,002
+Georgetown University	DC	57,928
+Wake Forest University	NC	57,760
+Yale University	CT	57,700
+University of Notre Dame	IN	57,699
+Duke University	NC	57,633
+Brandeis University	MA	57,615
+Sarah Lawrence College	NY	57,520
+Barnard College	NY	57,479
+Villanova University	PA	57,460
+Washington University in St Louis	MO	57,386
+Franklin W Olin College of Engineering	MA	57,356
+Bates College	ME	57,353
+Washington and Lee University	VA	57,285
+Chapman University	CA	57,214
+Scripps College	CA	57,188
+Rensselaer Polytechnic Institute	NY	57,012
+California Institute of Technology	CA	56,862
+University of Richmond	VA	56,860
+Denison University	OH	56,680
+Grinnell College	IA	56,680
+Occidental College	CA	56,576
+Dickinson College	PA	56,523
+Claremont McKenna College	CA	56,475
+Wheaton College	MA	56,366
+Bowdoin College	ME	56,350
+Drexel University	PA	56,238
+Stanford University	CA	56,169
+Fordham University	NY	56,161
+Bard College	NY	56,036
+Stevens Institute of Technology	NJ	55,952
+Syracuse University	NY	55,926
+Pitzer College	CA	55,878
+Lafayette College	PA	55,742
+Northeastern University	MA	55,452
+Lewis & Clark College	OR	55,266
+Lehigh University	PA	55,260
+Ursinus College	PA	55,210
+Davidson College	NC	55,175
+Kenyon College	OH	55,020
+Rhode Island School of Design	RI	54,890
+New York University	NY	54,880
+Pomona College	CA	54,774
+College of the Holy Cross	MA	54,770
+Mount Holyoke College	MA	54,618
+Muhlenberg College	PA	54,600
+Swarthmore College	PA	54,456
+Bryn Mawr College	PA	54,440
+Worcester Polytechnic Institute	MA	54,416
+Providence College	RI	54,388
+Smith College	MA	54,224
+Johns Hopkins University	MD	54,160
+Vanderbilt University	TN	54,158
+Babson College	MA	54,144
+Harvard University	MA	54,002
+The College of Wooster	OH	54,000
+Emory University	GA	53,868
+Willamette University	OR	53,834
+Pratt Institute-Main	NY	53,814
+Bentley University	MA	53,790
+University of Denver	CO	53,775
+Rollins College	FL	53,716
+University of Miami	FL	53,682
+California Institute of the Arts	CA	53,466
+Massachusetts Institute of Technology	MA	53,450
+Beloit College	WI	53,348
+School of the Art Institute of Chicago	IL	53,160
+Santa Clara University	CA	52,998
+Loyola Marymount University	CA	52,977
+Case Western Reserve University	OH	52,948
+Rose-Hulman Institute of Technology	IN	52,914
+Webb Institute	NY	52,880
+University of San Diego	CA	52,864
+University of Puget Sound	WA	52,775
+Clarkson University	NY	52,724
+DePauw University	IN	52,710
+Kalamazoo College	MI	52,530
+University of Redlands	CA	52,500
+University of San Francisco	CA	52,482
+The New England Conservatory of Music	MA	52,440
+Furman University	SC	52,092
+Hampshire College	MA	51,768
+Texas Christian University	TX	51,660
+St Olaf College	MN	51,450
+American University	DC	51,361
+Illinois Wesleyan University	IL	51,336
+Fairfield University	CT	51,325
+Rochester Institute of Technology	NY	51,240
+Emerson College	MA	51,148
+Susquehanna University	PA	51,140
+California College of the Arts	CA	51,137
+Rice University	TX	51,107
+Loyola University Maryland	MD	51,100
+University of the Pacific	CA	51,094
+The New School	NY	51,022
+Allegheny College	PA	50,980
+Lawrence University	WI	50,958
+Rhodes College	TN	50,910
+Albion College	MI	50,775
+Quinnipiac University	CT	50,760
+Saint Mary's College of California	CA	50,660
+Illinois Institute of Technology	IL	50,490
+Williams College	MA	50,450
+Whitman College	WA	50,408
+Washington & Jefferson College	PA	50,169
+Wagner College	NY	50,010
+Knox College	IL	49,974
+Hult International Business School	MA	49,950
+Lake Forest College	IL	49,822
+Otis College of Art and Design	CA	49,680
+University of Portland	OR	49,644
+Ringling College of Art and Design	FL	49,540
+Whittier College	CA	49,514
+Stetson University	FL	49,500
+Hendrix College	AR	49,490
+The Catholic University of America	DC	49,416
+Hofstra University	NY	49,410
+Southern California Institute of Architecture	CA	49,278
+Manhattan School of Music	NY	49,270
+The Juilliard School	NY	49,260
+Baylor University	TX	49,246
+Maryland Institute College of Art	MD	49,190
+Juniata College	PA	49,175
+Saint Edward's University	TX	49,076
+San Francisco Conservatory of Music	CA	49,050
+Gustavus Adolphus College	MN	48,789
+Clark University	MA	48,602
+Widener University	PA	48,575
+Princeton University	NJ	48,502
+College of Saint Benedict	MN	48,444
+Seattle University	WA	48,390
+Hartwick College	NY	48,364
+Washington College	MD	48,214
+Westmont College	CA	48,180
+Saint Michael's College	VT	48,175
+Saint Johns University	MN	48,166
+Hampden-Sydney College	VA	48,110
+Pacific University	OR	48,095
+Earlham College	IN	48,091
+The University of the South	TN	47,980
+Saint Joseph's University	PA	47,940
+Dominican University of California	CA	47,910
+Eckerd College	FL	47,704
+Pace University	NY	47,684
+Wofford College	SC	47,650
+College for Creative Studies	MI	47,585
+University of St Thomas	MN	47,383
+Moravian College	PA	47,367
+Seattle Pacific University	WA	47,244
+Coe College	IA	47,220
+Goucher College	MD	47,200
+Ohio Wesleyan University	OH	47,130
+Saint Louis University	MO	47,124
+Ripon College	WI	47,123
+University of Scranton	PA	47,084
+Roanoke College	VA	47,020
+Gonzaga University	WA	46,920
+Longy School of Music of Bard College	MA	46,880
+Bryant University	RI	46,863
+Pacific Lutheran University	WA	46,850
+Cooper Union for the Advancement of Science and Art	NY	46,820
+The University of the Arts	PA	46,680
+Stonehill College	MA	46,642
+Ithaca College	NY	46,610
+Art Center College of Design	CA	46,486
+Yeshiva University	NY	46,475
+Trinity University	TX	46,456
+Whitworth University	WA	46,250
+San Francisco Art Institute	CA	46,064
+Loyola University Chicago	IL	46,060
+Lebanon Valley College	PA	46,030
+California Lutheran University	CA	45,982
+Cornell College	IA	45,914
+Manhattan College	NY	45,880
+McDaniel College	MD	45,876
+Menlo College	CA	45,860
+Rider University	NJ	45,860
+University of La Verne	CA	45,850
+Wabash College	IN	45,850
+Saint Mary's College	IN	45,720
+Wartburg College	IA	45,680
+Marquette University	WI	45,666
+Berklee College of Music	MA	45,660
+Luther College	IA	45,610
+Arcadia University	PA	45,340
+Seton Hall University	NJ	45,290
+University of Dallas	TX	45,160
+Hamline University	MN	45,145
+Augustana College	IL	45,136
+Linfield University-McMinnville Campus	OR	45,132
+Southwestern University	TX	45,120
+Berea College	KY	45,092
+Merrimack College	MA	45,074
+Colby-Sawyer College	NH	44,930
+University of Dayton	OH	44,890
+Moore College of Art and Design	PA	44,806
+St. John's University-New York	NY	44,760
+Fairleigh Dickinson University-Florham Campus	NJ	44,740
+Mount Saint Mary's University	CA	44,474
+John Carroll University	OH	44,406
+Cleveland Institute of Art	OH	44,385
+Kettering University	MI	44,380
+Drake University	IA	44,376
+Sacred Heart University	CT	44,350
+Centre College	KY	44,300
+Agnes Scott College	GA	44,250
+University of Tulsa	OK	43,985
+Assumption University	MA	43,978
+Randolph-Macon College	VA	43,940
+Regis College	MA	43,715
+Mount St. Mary's University	MD	43,650
+Milwaukee School of Engineering	WI	43,575
+University of Hartford	CT	43,560
+College of the Atlantic	ME	43,542
+Biola University	CA	43,512
+Bellarmine University	KY	43,470
+Butler University	IN	43,400
+Valparaiso University	IN	43,286
+Concordia College at Moorhead	MN	43,266
+Florida Institute of Technology	FL	43,246
+Creighton University	NE	43,018
+Norwich University	VT	42,950
+Lycoming College	PA	42,939
+Salve Regina University	RI	42,920
+Beacon College	FL	42,900
+Saint Anselm College	NH	42,840
+Champlain College	VT	42,784
+Alma College	MI	42,622
+Woodbury University	CA	42,596
+St Catherine University	MN	42,594
+Austin College	TX	42,590
+Emmanuel College	MA	42,516
+Xavier University	OH	42,460
+Curry College	MA	42,425
+Hood College	MD	42,300
+Marist College	NY	42,290
+Loyola University New Orleans	LA	42,278
+Simpson College	IA	42,246
+Fairleigh Dickinson University-Metropolitan Campus	NJ	42,240
+Cleveland Institute of Music	OH	42,040
+American Musical and Dramatic Academy	NY	41,960
+Simmons University	MA	41,917
+Duquesne University	PA	41,892
+University of Lynchburg	VA	41,880
+Spring Hill College	AL	41,868
+Thomas Jefferson University	PA	41,866
+Minneapolis College of Art and Design	MN	41,794
+Pacific Northwest College of Art	OR	41,750
+University of Saint Joseph	CT	41,736
+University of New Haven	CT	41,654
+Suffolk University	MA	41,648
+Transylvania University	KY	41,610
+Iona College	NY	41,580
+Cedar Crest College	PA	41,567
+Wittenberg University	OH	41,476
+Adelphi University	NY	41,435
+Azusa Pacific University	CA	41,410
+Mercyhurst University	PA	41,350
+Monmouth College	IL	41,330
+Dean College	MA	41,318
+Millsaps College	MS	41,314
+DePaul University	IL	41,202
+North Central College	IL	41,180
+Oglethorpe University	GA	41,160
+College of Mount Saint Vincent	NY	40,980
+Drew University	NJ	40,960
+Holy Names University	CA	40,904
+Saint Norbert College	WI	40,885
+Georgetown College	KY	40,800
+Franklin Pierce University	NH	40,680
+Monmouth University	NJ	40,680
+Delaware Valley University	PA	40,620
+Springfield College	MA	40,480
+Pennsylvania Academy of the Fine Arts	PA	40,376
+Manhattanville College	NY	40,330
+Presbyterian College	SC	40,260
+Siena College	NY	40,175
+Becker College	MA	40,150
+Guilford College	NC	40,120
+Hollins University	VA	40,110
+Kansas City Art Institute	MO	40,100
+King's College	PA	40,080
+Augsburg University	MN	40,005
+Meredith College	NC	39,952
+Saint Martin's University	WA	39,940
+Chatham University	PA	39,902
+Jacksonville University	FL	39,900
+Lenoir-Rhyne University	NC	39,900
+Rockhurst University	MO	39,780
+New York Institute of Technology	NY	39,760
+Notre Dame of Maryland University	MD	39,675
+Hanover College	IN	39,650
+New England College	NH	39,648
+Millikin University	IL	39,592
+Milwaukee Institute of Art & Design	WI	39,560
+DeSales University	PA	39,500
+Anna Maria College	MA	39,470
+The College of Saint Scholastica	MN	39,410
+Lynn University	FL	39,350
+Saint Francis University	PA	39,278
+Gordon College	MA	39,230
+Eastern Mennonite University	VA	39,220
+Western New England University	MA	39,216
+Sterling College	VT	39,200
+Long Island University	NY	39,136
+Wheaton College	IL	39,100
+Bethel University	MN	39,030
+Lasell University	MA	39,000
+Florida Southern College	FL	38,980
+Wingate University	NC	38,896
+Saint Joseph's College of Maine	ME	38,820
+Saint Peter's University	NJ	38,760
+Wilkes University	PA	38,752
+University of New England	ME	38,750
+Adrian College	MI	38,730
+University of Evansville	IN	38,686
+Elmhurst University	IL	38,654
+Northland College	WI	38,596
+Regis University	CO	38,558
+College of Our Lady of the Elms	MA	38,391
+George Fox University	OR	38,370
+Warren Wilson College	NC	38,350
+Maine College of Art	ME	38,310
+Point Loma Nazarene University	CA	38,300
+Capital University	OH	38,298
+Saint Mary's University of Minnesota	MN	38,280
+Roger Williams University	RI	38,274
+American International College	MA	38,220
+Chestnut Hill College	PA	38,200
+High Point University	NC	38,080
+Savannah College of Art and Design	GA	38,075
+Centenary College of Louisiana	LA	38,060
+Alvernia University	PA	38,030
+Concordia University-Irvine	CA	38,000
+Embry-Riddle Aeronautical University-Daytona Beach	FL	37,964
+Westminster College	UT	37,960
+Berry College	GA	37,946
+Seton Hill University	PA	37,946
+Elon University	NC	37,921
+Stevenson University	MD	37,868
+Embry-Riddle Aeronautical University-Prescott	AZ	37,864
+Mercer University	GA	37,808
+Calvin University	MI	37,806
+Abilene Christian University	TX	37,800
+Bridgewater College	VA	37,720
+The King's College	NY	37,690
+Westminster College	PA	37,675
+Saint Vincent College	PA	37,604
+Marymount Manhattan College	NY	37,410
+Columbus College of Art and Design	OH	37,370
+Queens University of Charlotte	NC	37,332
+Carroll College	MT	37,262
+Messiah University	PA	37,180
+Antioch College	OH	37,143
+Belmont University	TN	37,030
+William Jessup University	CA	37,000
+Olivet Nazarene University	IL	36,950
+Marywood University	PA	36,928
+Virginia Wesleyan University	VA	36,910
+Marymount California University	CA	36,908
+Nebraska Wesleyan University	NE	36,854
+Doane University	NE	36,800
+Taylor University	IN	36,800
+Marietta College	OH	36,764
+Albany College of Pharmacy and Health Sciences	NY	36,745
+Campbell University	NC	36,740
+Nazareth College	NY	36,735
+Covenant College	GA	36,710
+Caldwell University	NJ	36,700
+Ferrum College	VA	36,695
+Averett University	VA	36,670
+Cazenovia College	NY	36,668
+Hope College	MI	36,650
+Lawrence Technological University	MI	36,630
+University of Dubuque	IA	36,610
+Vanguard University of Southern California	CA	36,550
+Nichols College	MA	36,540
+St Bonaventure University	NY	36,515
+Erskine College	SC	36,510
+The University of Findlay	OH	36,484
+Buena Vista University	IA	36,426
+California Baptist University	CA	36,340
+Maryville College	TN	36,292
+Elmira College	NY	36,228
+Methodist University	NC	36,076
+Concordia College	NY	36,000
+Marian University	IN	36,000
+Wentworth Institute of Technology	MA	35,970
+Misericordia University	PA	35,940
+St. John's College	MD	35,935
+Le Moyne College	NY	35,910
+Augustana University	SD	35,884
+Bay Path University	MA	35,781
+St. John's College	NM	35,760
+University of Bridgeport	CT	35,760
+Clarke University	IA	35,750
+Milligan University	TN	35,600
+Midland University	NE	35,528
+Sierra Nevada University	NV	35,508
+Mount Mercy University	IA	35,506
+Bradley University	IL	35,480
+Gwynedd Mercy University	PA	35,430
+Dominican University	IL	35,420
+Albertus Magnus College	CT	35,410
+Endicott College	MA	35,320
+Montserrat College of Art	MA	35,300
+American Academy of Art	IL	35,270
+Niagara University	NY	35,240
+Goshen College	IN	35,230
+Loras College	IA	35,218
+La Sierra University	CA	35,208
+Saint John Fisher College	NY	35,150
+Emory & Henry College	VA	35,100
+Aquinas College	MI	35,086
+Mitchell College	CT	35,072
+Mars Hill University	NC	35,052
+Felician University	NJ	35,000
+University of St Francis	IL	35,000
+Alfred University	NY	34,960
+Concordia University-Nebraska	NE	34,900
+Christian Brothers University	TN	34,880
+Saint Elizabeth University	NJ	34,876
+Art Academy of Cincinnati	OH	34,854
+Colorado Christian University	CO	34,750
+Lipscomb University	TN	34,744
+Johnson & Wales University-Charlotte	NC	34,736
+Johnson & Wales University-Providence	RI	34,736
+Saint Xavier University	IL	34,730
+Eastern University	PA	34,706
+Culinary Institute of America	NY	34,650
+MCPHS University	MA	34,650
+Union University	TN	34,630
+Ursuline College	OH	34,630
+Illinois College	IL	34,620
+Naropa University	CO	34,600
+Marymount University	VA	34,540
+Gannon University	PA	34,526
+Rivier University	NH	34,510
+Baldwin Wallace University	OH	34,504
+Bluffton University	OH	34,502
+Houston Baptist University	TX	34,500
+Centenary University	NJ	34,498
+Lewis University	IL	34,478
+Houghton College	NY	34,466
+Hope International University	CA	34,450
+William Jewell College	MO	34,450
+Ohio Northern University	OH	34,440
+Manchester University	IN	34,436
+Mount Saint Mary College	NY	34,412
+The College of Saint Rose	NY	34,354
+Benedictine University	IL	34,290
+Cornish College of the Arts	WA	34,200
+Point Park University	PA	34,200
+St. Thomas Aquinas College	NY	34,200
+Samford University	AL	34,198
+Corban University	OR	34,188
+Keuka College	NY	34,032
+Carroll University	WI	34,010
+Northwest University	WA	33,980
+Morningside College	IA	33,970
+Soka University of America	CA	33,962
+Franklin College	IN	33,954
+Defiance College	OH	33,910
+Shenandoah University	VA	33,900
+Cabrini University	PA	33,845
+Concordia University Texas	TX	33,800
+Cardinal Stritch University	WI	33,770
+St. Mary's University	TX	33,720
+Prescott College	AZ	33,669
+Georgian Court University	NJ	33,640
+Concordia University-Chicago	IL	33,636
+Simpson University	CA	33,630
+Thiel College	PA	33,520
+Roberts Wesleyan College	NY	33,500
+Trine University	IN	33,490
+Palm Beach Atlantic University	FL	33,475
+Fresno Pacific University	CA	33,452
+Nova Southeastern University	FL	33,430
+Thomas More University	KY	33,420
+Texas Wesleyan University	TX	33,408
+Providence Christian College	CA	33,396
+San Diego Christian College	CA	33,312
+Briar Cliff University	IA	33,308
+Trinity International University-Illinois	IL	33,298
+Holy Cross College	IN	33,250
+Southwestern College	KS	33,250
+University of Northwestern-St Paul	MN	33,200
+Lake Erie College	OH	33,172
+Otterbein University	OH	33,074
+Rockford University	IL	33,050
+Newman University	KS	33,000
+Elizabethtown College	PA	32,960
+Neumann University	PA	32,960
+Russell Sage College	NY	32,950
+Upper Iowa University	IA	32,945
+St. Thomas University	FL	32,940
+Northwestern College	IA	32,920
+Ohio Dominican University	OH	32,880
+MidAmerica Nazarene University	KS	32,872
+The College of Idaho	ID	32,855
+Dordt University	IA	32,820
+Laboure College	MA	32,813
+Mount Mary University	WI	32,790
+Northwest Nazarene University	ID	32,780
+Hastings College	NE	32,770
+Saint Ambrose University	IA	32,758
+North Carolina Wesleyan College	NC	32,750
+Oklahoma City University	OK	32,744
+Fisher College	MA	32,700
+Laguna College of Art and Design	CA	32,600
+University of Mount Union	OH	32,600
+Barton College	NC	32,590
+Cedarville University	OH	32,564
+Molloy College	NY	32,550
+LeTourneau University	TX	32,490
+William Peace University	NC	32,450
+La Salle University	PA	32,425
+University of Saint Francis-Fort Wayne	IN	32,420
+Malone University	OH	32,416
+American Jewish University	CA	32,404
+LaGrange College	GA	32,370
+Bushnell University	OR	32,320
+Heidelberg University	OH	32,300
+University of the Incarnate Word	TX	32,286
+University of Indianapolis	IN	32,268
+West Virginia Wesleyan College	WV	32,252
+McKendree University	IL	32,200
+Mount Saint Joseph University	OH	32,200
+University of Charleston	WV	32,200
+Gardner-Webb University	NC	32,180
+Ottawa University-Ottawa	KS	32,180
+Robert Morris University	PA	32,130
+Anderson University	IN	32,100
+North Park University	IL	32,100
+Tabor College	KS	32,100
+Trinity Christian College	IL	32,075
+Asbury University	KY	32,028
+Pacific Union College	CA	32,016
+Dallas Baptist University	TX	31,940
+Schreiner University	TX	31,938
+Texas Lutheran University	TX	31,850
+King University	TN	31,840
+Pfeiffer University	NC	31,840
+New England Institute of Technology	RI	31,827
+Wells College	NY	31,800
+Wisconsin Lutheran College	WI	31,754
+Walsh University	OH	31,725
+Brenau University	GA	31,720
+Edgewood College	WI	31,700
+Holy Family University	PA	31,640
+Benedictine College	KS	31,630
+Mount Vernon Nazarene University	OH	31,610
+Pine Manor College	MA	31,600
+University of St Thomas	TX	31,560
+Coker University	SC	31,524
+Carthage College	WI	31,500
+Medaille College	NY	31,500
+Roosevelt University	IL	31,493
+Carlow University	PA	31,446
+Catawba College	NC	31,436
+Hardin-Simmons University	TX	31,364
+Oklahoma Baptist University	OK	31,352
+Graceland University-Lamoni	IA	31,320
+Drury University	MO	31,215
+Concordia University-Wisconsin	WI	31,182
+Quincy University	IL	31,160
+McPherson College	KS	31,154
+Saint Mary-of-the-Woods College	IN	31,150
+Mary Baldwin University	VA	31,110
+Concordia University-Ann Arbor	MI	31,060
+Salem College	NC	31,016
+Andrews University	MI	31,008
+Ottawa University-Surprise	AZ	31,000
+Barry University	FL	30,940
+Oral Roberts University	OK	30,930
+The University of Tampa	FL	30,884
+Westminster College	MO	30,880
+Bethany College	WV	30,840
+Bethany College	KS	30,820
+American Conservatory Theater	CA	30,800
+University of Saint Mary	KS	30,800
+Lakeland University	WI	30,777
+Baker University	KS	30,770
+Mills College	CA	30,770
+Notre Dame College	OH	30,750
+University of Mary Hardin-Baylor	TX	30,750
+Dominican College of Blauvelt	NY	30,720
+Bloomfield College	NJ	30,680
+Alverno College	WI	30,658
+Rocky Mountain College	MT	30,586
+Kansas Wesleyan University	KS	30,570
+Spring Arbor University	MI	30,472
+Daemen College	NY	30,360
+La Roche University	PA	30,320
+Bethel College-North Newton	KS	30,264
+Brevard College	NC	30,250
+Canisius College	NY	30,230
+Paul Smiths College of Arts and Science	NY	30,194
+Franciscan University of Steubenville	OH	30,180
+University of Health Sciences and Pharmacy in St. Louis	MO	30,147
+Olivet College	MI	30,126
+Friends University	KS	30,120
+Anderson University	SC	29,980
+Spelman College	GA	29,972
+Davis & Elkins College	WV	29,960
+Walla Walla University	WA	29,931
+Our Lady of the Lake University	TX	29,926
+Pennsylvania College of Health Sciences	PA	29,922
+Judson University	IL	29,870
+Cairn University-Langhorne	PA	29,853
+VanderCook College of Music	IL	29,800
+Grand View University	IA	29,792
+Bethel University	IN	29,790
+Dakota Wesleyan University	SD	29,770
+St. Andrews University	NC	29,680
+Young Harris College	GA	29,667
+University of Detroit Mercy	MI	29,562
+Lesley University	MA	29,550
+Carson-Newman University	TN	29,500
+Muskingum University	OH	29,490
+Northwood University	MI	29,480
+Morehouse College	GA	29,468
+Lyon College	AR	29,415
+Missouri Baptist University	MO	29,360
+Viterbo University	WI	29,350
+Hampton University	VA	29,312
+Hawaii Pacific University	HI	29,300
+Wheeling University	WV	29,290
+Arizona Christian University	AZ	29,250
+Alderson Broaddus University	WV	29,220
+St. Joseph's College-New York	NY	29,200
+Howard Payne University	TX	29,198
+Mount Marty University	SD	29,136
+Ouachita Baptist University	AR	29,120
+Geneva College	PA	29,040
+Greenville University	IL	28,956
+Oklahoma Wesleyan University	OK	28,924
+D'Youville College	NY	28,886
+McMurry University	TX	28,830
+Montreat College	NC	28,750
+The Master's University and Seminary	CA	28,740
+Webster University	MO	28,700
+Marian University	WI	28,560
+Kentucky Wesleyan College	KY	28,540
+Hesston College	KS	28,440
+Howard University	DC	28,440
+Thomas College	ME	28,430
+Bethany Lutheran College	MN	28,380
+Eureka College	IL	28,360
+John Brown University	AR	28,288
+Webber International University	FL	28,268
+Trinity College of Nursing & Health Sciences	IL	28,244
+Indiana Wesleyan University-Marion	IN	28,184
+Newberry College	SC	28,150
+Charleston Southern University	SC	28,100
+Indiana Institute of Technology	IN	28,000
+Multnomah University	OR	28,000
+Union College	KY	28,000
+Crown College	MN	27,980
+Huntingdon College	AL	27,900
+Fontbonne University	MO	27,790
+Columbia College Chicago	IL	27,786
+Immaculata University	PA	27,750
+Culver-Stockton College	MO	27,740
+Pennsylvania College of Art and Design	PA	27,650
+Siena Heights University	MI	27,642
+East Texas Baptist University	TX	27,640
+Tiffin University	OH	27,610
+Bluefield College	VA	27,570
+Piedmont University	GA	27,520
+Southeastern University	FL	27,520
+University of the Sciences	PA	27,500
+University of Rio Grande	OH	27,481
+Saint Anthony College of Nursing	IL	27,460
+Grace College and Theological Seminary	IN	27,432
+Wilmington College	OH	27,400
+Lees-McRae College	NC	27,390
+Lancaster Bible College	PA	27,370
+Sterling College	KS	27,300
+Wesley College	DE	27,284
+Maryville University of Saint Louis	MO	27,166
+John Paul the Great Catholic University	CA	27,100
+Belhaven University	MS	27,025
+Eastern Nazarene College	MA	26,952
+Chaminade University of Honolulu	HI	26,914
+Trevecca Nazarene University	TN	26,898
+Capitol Technology University	MD	26,874
+Huntington University	IN	26,846
+St Francis College	NY	26,798
+University of Saint Katherine	CA	26,700
+Albright College	PA	26,688
+University of Providence	MT	26,662
+William Penn University	IA	26,600
+Waynesburg University	PA	26,500
+New York School of Interior Design	NY	26,322
+Limestone University	SC	26,300
+North Central University	MN	26,280
+Cornerstone University	MI	26,250
+Columbia College Hollywood	CA	26,175
+Vaughn College of Aeronautics and Technology	NY	26,150
+Wilson College	PA	26,090
+Clarks Summit University	PA	26,082
+Southern Nazarene University	OK	26,000
+Thomas Aquinas College	CA	26,000
+Spalding University	KY	25,975
+University of the Ozarks	AR	25,950
+William Woods University	MO	25,930
+Chowan University	NC	25,880
+Martin Methodist College	TN	25,850
+Tennessee Wesleyan University	TN	25,850
+Xavier University of Louisiana	LA	25,822
+Central Methodist University-College of Liberal Arts and Sciences	MO	25,780
+Lindsey Wilson College	KY	25,718
+Southern Wesleyan University	SC	25,676
+Lourdes University	OH	25,644
+Randolph College	VA	25,610
+Aurora University	IL	25,600
+Southwest Baptist University	MO	25,508
+Goldey-Beacom College	DE	25,500
+Nyack College	NY	25,500
+Tusculum University	TN	25,500
+Bryn Athyn College of the New Church	PA	25,449
+Campbellsville University	KY	25,400
+Villa Maria College	NY	25,400
+Cumberland University	TN	25,386
+Union College	NE	25,340
+Iowa Wesleyan University	IA	25,280
+Pontifical College Josephinum	OH	25,262
+Reinhardt University	GA	25,228
+Washington Adventist University	MD	25,200
+Wesleyan College	GA	25,190
+Trinity Washington University	DC	25,110
+Brescia University	KY	25,100
+Oklahoma Christian University	OK	25,090
+Evangel University	MO	25,037
+Oakland City University	IN	24,990
+Blackburn College	IL	24,950
+Midway University	KY	24,850
+Mount Angel Seminary	OR	24,770
+Rochester University	MI	24,720
+Columbia International University	SC	24,650
+Saint Leo University	FL	24,640
+Thomas More College of Liberal Arts	NH	24,600
+Hilbert College	NY	24,530
+Hiram College	OH	24,500
+Mount Aloysius College	PA	24,370
+Columbia College	MO	24,320
+University of Mobile	AL	24,310
+Lubbock Christian University	TX	24,260
+Warner University	FL	24,200
+Hannibal-LaGrange University	MO	24,000
+Madonna University	MI	24,000
+Magdalen College	NH	24,000
+Finlandia University	MI	23,990
+Kuyper College	MI	23,970
+Harrisburg University of Science and Technology	PA	23,900
+University of Jamestown	ND	23,498
+Lincoln Memorial University	TN	23,490
+Concordia University-Saint Paul	MN	23,400
+Stephens College	MO	23,385
+Ave Maria University	FL	23,188
+Dunwoody College of Technology	MN	23,122
+St. John Vianney College Seminary	FL	23,100
+Ashland University	OH	23,060
+Faulkner University	AL	22,990
+Freed-Hardeman University	TN	22,950
+Southern Adventist University	TN	22,930
+Conception Seminary College	MO	22,873
+Southwestern Adventist University	TX	22,836
+Shorter University	GA	22,810
+Cottey College	MO	22,770
+Pillar College	NJ	22,756
+Sweet Briar College	VA	22,700
+East-West University	IL	22,650
+Tuskegee University	AL	22,614
+University of Valley Forge	PA	22,606
+Saint Charles Borromeo Seminary-Overbrook	PA	22,570
+Ohio Valley University	WV	22,550
+Hellenic College-Holy Cross Greek Orthodox School of Theology	MA	22,490
+Cleary University	MI	22,230
+University of Mount Olive	NC	22,194
+Fisk University	TN	22,132
+Utica College	NY	22,110
+North Greenville University	SC	22,050
+University of Pikeville	KY	22,050
+Ohio Christian University	OH	21,990
+Truett McConnell University	GA	21,938
+Boston Architectural College	MA	21,924
+Point University	GA	21,850
+Barclay College	KS	21,780
+York College of Pennsylvania	PA	21,700
+Clark Atlanta University	GA	21,695
+Bellin College	WI	21,685
+Liberty University	VA	21,587
+Saint Joseph Seminary College	LA	21,550
+Harding University	AR	21,540
+Missouri Valley College	MO	21,500
+Presentation College	SD	21,375
+College of Saint Mary	NE	21,370
+Wayland Baptist University	TX	21,304
+Emmanuel College	GA	21,220
+Kentucky Christian University	KY	21,200
+Toccoa Falls College	GA	21,120
+Avila University	MO	21,115
+Sacred Heart Major Seminary	MI	21,107
+California Jazz Conservatory	CA	21,100
+Keiser University-Ft Lauderdale	FL	21,008
+Goodwin University	CT	20,998
+St Luke's College	IA	20,940
+Bob Jones University	SC	20,890
+Alaska Pacific University	AK	20,760
+Touro College	NY	20,750
+Columbia College	SC	20,690
+Rosemont College	PA	20,650
+American College of the Building Arts	SC	20,572
+Mercy College	NY	20,558
+Converse College	SC	20,500
+Calumet College of Saint Joseph	IN	20,470
+Davenport University	MI	20,260
+Metropolitan College of New York	NY	20,188
+Central Christian College of Kansas	KS	20,100
+Flagler College	FL	20,040
+Visible Music College	TN	20,000
+Oakwood University	AL	19,990
+College of the Ozarks	MO	19,960
+Warner Pacific University	OR	19,860
+Southwestern Assemblies of God University	TX	19,834
+University of Mary	ND	19,830
+York College	NE	19,810
+AdventHealth University	FL	19,800
+Husson University	ME	19,772
+Welch College	TN	19,582
+Lee University	TN	19,540
+University of Sioux Falls	SD	19,520
+Allen College	IA	19,512
+Yeshiva Yesoda Hatorah Vetz Chaim	NY	19,500
+Lincoln College	IL	19,400
+Mississippi College	MS	19,308
+Dillard University	LA	19,281
+Emmaus Bible College	IA	19,250
+Andrew College	GA	19,172
+Southwestern Christian University	OK	19,114
+Dallas Christian College	TX	19,086
+Congregation Talmidei Mesivta Tiferes Shmiel Aleksander	NY	19,000
+Greensboro College	NC	18,960
+Aultman College of Nursing and Health Sciences	OH	18,950
+Mercy College of Ohio	OH	18,950
+Birmingham-Southern College	AL	18,900
+Brewton-Parker College	GA	18,900
+Mid-America Christian University	OK	18,838
+Johnson C Smith University	NC	18,784
+Regent University	VA	18,720
+Remington College-North Houston Campus	TX	18,651
+Judson College	AL	18,640
+Central College	IA	18,600
+Manor College	PA	18,530
+Bennett College	NC	18,513
+Belmont Abbey College	NC	18,500
+Williams Baptist University	AR	18,500
+Trocaire College	NY	18,340
+Heritage University	WA	18,332
+Mercy College of Health Sciences	IA	18,332
+Everglades University	FL	18,320
+Livingstone College	NC	18,296
+Johnson University	TN	18,290
+Bryan College of Health Sciences	NE	18,216
+Goddard College	VT	18,210
+Lindenwood University	MO	18,100
+Florida College	FL	18,060
+Methodist College	IL	17,988
+Southern Virginia University	VA	17,696
+Faith Baptist Bible College and Theological Seminary	IA	17,650
+Maranatha Baptist University	WI	17,650
+Johnson University Florida	FL	17,630
+Riverside College of Health Careers	VA	17,610
+Benjamin Franklin Institute of Technology	MA	17,550
+Spartanburg Methodist College	SC	17,540
+Louisiana College	LA	17,500
+Life Pacific University	CA	17,434
+Trinity Bible College and Graduate School	ND	17,340
+Oak Hills Christian College	MN	17,334
+Manhattan Christian College	KS	17,250
+Great Lakes Christian College	MI	17,220
+Benedict College	SC	17,200
+Yeshiva Shaar Hatorah	NY	17,160
+Davis College	NY	17,150
+Remington College-Mobile Campus	AL	17,148
+Central Baptist College	AR	17,100
+Bryan College-Dayton	TN	17,050
+Claflin University	SC	17,046
+Gallaudet University	DC	17,038
+Bethel University	TN	17,010
+Keystone College	PA	17,000
+Thomas University	GA	16,970
+Saint Augustine's University	NC	16,884
+Southern California Seminary	CA	16,884
+Compass College of Cinematic Arts	MI	16,800
+Nebraska Methodist College of Nursing & Allied Health	NE	16,708
+California College San Diego	CA	16,600
+California College San Diego	CA	16,600
+California College San Diego-CollegeAmerica-Phoenix	AZ	16,600
+Independence University	UT	16,600
+Stevens-Henager College	UT	16,600
+Stevens-Henager College	UT	16,600
+Stevens-Henager College	ID	16,600
+Randall University	OK	16,547
+Maharishi International University	IA	16,530
+Mid-Atlantic Christian University	NC	16,490
+Shaw University	NC	16,480
+Pittsburgh Technical College	PA	16,460
+Martin Luther College	MN	16,420
+Trinity College of Florida	FL	16,300
+Cambridge College	MA	16,266
+University of the Southwest	NM	16,200
+Florida Memorial University	FL	16,176
+Lackawanna College	PA	16,130
+Remington College-Dallas Campus	TX	16,075
+Oak Valley College	CA	16,040
+Ecclesia College	AR	15,950
+Ranken Technical College	MO	15,947
+Blue Mountain College	MS	15,800
+Remington College-Shreveport Campus	LA	15,793
+New Hope Christian College-Eugene	OR	15,700
+Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary	CA	15,700
+Union Institute & University	OH	15,686
+Parker University	TX	15,672
+Maria College of Albany	NY	15,610
+Appalachian Bible College	WV	15,536
+Remington College-Memphis Campus	TN	15,498
+Good Samaritan College of Nursing and Health Science	OH	15,470
+Bethany Global University	MN	15,450
+The King's University	TX	15,450
+The Christ College of Nursing and Health Sciences	OH	15,381
+United Talmudical Seminary	NY	15,300
+University of Holy Cross	LA	15,280
+Crowley's Ridge College	AR	15,100
+Peirce College	PA	15,060
+Arlington Baptist University	TX	15,050
+Morris College	SC	14,980
+Baptist Bible College	MO	14,890
+Edward Waters College	FL	14,878
+City College-Fort Lauderdale	FL	14,876
+City College-Gainesville	FL	14,876
+City College-Miami	FL	14,876
+Bethune-Cookman University	FL	14,794
+Huston-Tillotson University	TX	14,703
+Bacone College	OK	14,700
+Mount Carmel College of Nursing	OH	14,675
+Hodges University	FL	14,660
+Rabbinical College of Ohr Shimon Yisroel	NY	14,600
+Touro University Worldwide	CA	14,600
+Paine College	GA	14,595
+Carolina University	NC	14,580
+Humphreys University-Stockton and Modesto Campuses	CA	14,580
+Franciscan Missionaries of Our Lady University	LA	14,535
+Telshe Yeshiva-Chicago	IL	14,500
+Clarkson College	NE	14,496
+Cleveland University-Kansas City	KS	14,400
+Williamson Christian College	TN	14,350
+Rabbinical College Beth Shraga	NY	14,250
+Alice Lloyd College	KY	14,230
+New York College of Health Professions	NY	14,226
+Herzing University-Akron	OH	14,200
+Herzing University-Atlanta	GA	14,200
+Herzing University-Birmingham	AL	14,200
+Herzing University-Brookfield	WI	14,200
+Herzing University-Kenosha	WI	14,200
+Herzing University-Madison	WI	14,200
+Herzing University-Minneapolis	MN	14,200
+Herzing University-New Orleans	LA	14,200
+Herzing University-Orlando	FL	14,200
+Yeshiva Shaar Ephraim	NY	14,175
+Grace Christian University	MI	14,160
+Trinity International University-Florida	FL	14,020
+Charles R Drew University of Medicine and Science	CA	14,002
+Lincoln Christian University	IL	13,980
+Moody Bible Institute	IL	13,970
+Cabarrus College of Health Sciences	NC	13,966
+Maine College of Health Professions	ME	13,905
+Talmudical Academy-New Jersey	NJ	13,900
+Talladega College	AL	13,866
+Kettering College	OH	13,824
+Divine Word College	IA	13,780
+Hebrew Theological College	IL	13,760
+Yeshiva Shaarei Torah of Rockland	NY	13,750
+Yeshiva of Far Rockaway Derech Ayson Rabbinical Seminary	NY	13,750
+William Carey University	MS	13,650
+Ozark Christian College	MO	13,600
+Life University	GA	13,596
+University of the West	CA	13,556
+Virginia Union University	VA	13,530
+Uta Mesivta of Kiryas Joel	NY	13,500
+Wiley College	TX	13,500
+Northpoint Bible College	MA	13,493
+Yeshivath Zichron Moshe	NY	13,450
+Dell'Arte International School of Physical Theatre	CA	13,400
+Rabbinical College Telshe	OH	13,400
+Johnson & Wales University-Online	RI	13,365
+Allen University	SC	13,340
+National University	CA	13,320
+Southeast Missouri Hospital College of Nursing and Health Sciences	MO	13,301
+Saint Louis Christian College	MO	13,280
+Talmudic College of Florida	FL	13,250
+Wilberforce University	OH	13,250
+Martin University	IN	13,200
+Polytechnic University of Puerto Rico-Miami	FL	13,155
+Trinity Baptist College	FL	13,130
+Bais HaMedrash and Mesivta of Baltimore	MD	13,100
+Boise Bible College	ID	13,100
+Philander Smith College	AR	13,014
+Yeshiva Gedola Tiferes Yaakov Yitzchok	NJ	13,000
+Pacific States University	CA	12,960
+International Baptist College and Seminary	AZ	12,900
+Shasta Bible College and Graduate School	CA	12,860
+Yeshiva of Nitra Rabbinical College	NY	12,750
+Miles College	AL	12,714
+Mid-America College of Funeral Service	IN	12,700
+Unity College	ME	12,640
+Polytechnic University of Puerto Rico-Orlando	FL	12,630
+Voorhees College	SC	12,630
+Criswell College	TX	12,624
+Boston Baptist College	MA	12,600
+Cox College	MO	12,600
+Baptist Health Sciences University	TN	12,572
+The Chicago School of Professional Psychology at Chicago	IL	12,524
+The Chicago School of Professional Psychology at Los Angeles	CA	12,524
+Yeshiva Yesodei Hatorah	NJ	12,500
+Brandman University	CA	12,480
+American Baptist College	TN	12,474
+Rabbinical Academy Mesivta Rabbi Chaim Berlin	NY	12,450
+Albizu University-Miami	FL	12,444
+Ner Israel Rabbinical College	MD	12,400
+Yeshivat Hechal Shemuel	NY	12,380
+Mesivta Torah Vodaath Rabbinical Seminary	NY	12,360
+Beth Medrash of Asbury Park	NJ	12,350
+Centra College	VA	12,325
+Ohr Hameir Theological Seminary	NY	12,250
+Yeshiva Toras Chaim	NJ	12,250
+Florida Institute of Technology-Online	FL	12,240
+The Baptist College of Florida	FL	12,150
+Yeshiva Chemdas Hatorah	NJ	12,150
+Saint Augustine College	IL	12,120
+Yeshiva Derech Chaim	NY	12,100
+Le Moyne-Owen College	TN	12,076
+Mesivtha Tifereth Jerusalem of America	NY	12,000
+Rabbinical College of America	NJ	12,000
+Northwest University-College of Adult and Professional Studies	WA	11,970
+Rabbi Jacob Joseph School	NJ	11,950
+Park University	MO	11,929
+Pacific Rim Christian University	HI	11,900
+Averett University-Non-Traditional Programs	VA	11,820
+Yeshiva Karlin Stolin	NY	11,800
+Lane College	TN	11,790
+Jarvis Christian College	TX	11,720
+Northwestern Health Sciences University	MN	11,700
+Pacific Oaks College	CA	11,692
+Machzikei Hadath Rabbinical College	NY	11,650
+University of Northwestern Ohio	OH	11,550
+Heritage Christian University	AL	11,532
+National Louis University	IL	11,505
+Yeshivas Maharit D'Satmar	NY	11,500
+Wilmington University	DE	11,480
+Lincoln University	CA	11,390
+Yellowstone Christian College	MT	11,360
+Yeshiva Kollel Tifereth Elizer	NY	11,360
+Stillman College	AL	11,322
+Yeshiva Gedolah Kesser Torah	NY	11,300
+Faith International University	WA	11,250
+Calvary University	MO	11,164
+Torah Temimah Talmudical Seminary	NY	11,050
+Boricua College	NY	11,025
+Central Yeshiva Beth Joseph	NY	11,000
+Yeshivas Be'er Yitzchok	NJ	10,900
+Tougaloo College	MS	10,861
+Los Angeles Pacific University	CA	10,800
+Yeshiva Gedolah Zichron Leyma	NJ	10,750
+Yeshiva Sholom Shachna	NY	10,750
+Yeshiva of the Telshe Alumni	NY	10,700
+Bais Medrash Mayan Hatorah	NJ	10,650
+SUM Bible College and Theological Seminary	CA	10,604
+Yeshiva College of the Nations Capital	MD	10,600
+Sh'or Yoshuv Rabbinical College	NY	10,560
+Southeastern Free Will Baptist Bible College	NC	10,470
+Be'er Yaakov Talmudic Seminary	NY	10,460
+Beth Medrash Meor Yitzchok	NY	10,400
+Women's Institute of Torah Seminary and College	MD	10,366
+Beth Hamedrash Shaarei Yosher Institute	NY	10,350
+Fairfax University of America	VA	10,328
+Nazarene Bible College	CO	10,320
+Kehilath Yakov Rabbinical Seminary	NY	10,300
+Talmudical Seminary Oholei Torah	NY	10,300
+Yeshivas Novominsk	NY	10,300
+Embry-Riddle Aeronautical University-Worldwide	FL	10,296
+Indiana Institute of Technology-College of Professional Studies	IN	10,224
+Talmudical Seminary of Bobov	NY	10,200
+Mirrer Yeshiva Cent Institute	NY	10,170
+Baker College	MI	10,160
+Keser Torah-Mayan Hatalmud	NJ	10,150
+Yeshivas Emek Hatorah	NJ	10,150
+College Unbound	RI	10,112
+Yeshiva of Machzikai Hadas	NY	10,100
+Bet Medrash Gadol Ateret Torah	NY	10,050
+California Christian College	CA	10,050
+Clinton College	SC	10,020
+Beis Medrash Heichal Dovid	NY	10,000
+Texas College	TX	10,000
+Paul Quinn College	TX	9,992
+Yeshiva Ohr Naftoli	NY	9,926
+North American University	TX	9,900
+Rabbinical Seminary of America	NY	9,900
+Rust College	MS	9,900
+University of the Cumberlands	KY	9,875
+Clear Creek Baptist Bible College	KY	9,870
+Yeshiva Gedolah Tiferes Boruch	NJ	9,850
+Yeshivath Beth Moshe	PA	9,800
+Kentucky Mountain Bible College	KY	9,760
+Talmudical Yeshiva of Philadelphia	PA	9,725
+Alaska Bible College	AK	9,700
+Epic Bible College	CA	9,689
+Indiana Wesleyan University-National & Global	IN	9,671
+Bais Binyomin Academy	NY	9,650
+Southern New Hampshire University	NH	9,650
+Bais Medrash of Dexter Park	NY	9,600
+Franklin University	OH	9,577
+Trine University-Regional/Non-Traditional Campuses	IN	9,576
+Southeastern Baptist Theological Seminary	NC	9,562
+Yeshiva Gedolah Imrei Yosef D'spinka	NY	9,500
+Mesivta of Eastern Parkway-Yeshiva Zichron Meilech	NY	9,450
+Kansas Christian College	KS	9,340
+Horizon University	IN	9,300
+Central Christian College of the Bible	MO	9,250
+Yeshiva Bais Aharon	NJ	9,250
+Mid-South Christian College	TN	9,215
+San Juan Bautista School of Medicine	PR	9,192
+Messenger College	TX	9,180
+Rabbinical College of Long Island	NY	9,100
+Tri-State Bible College	OH	9,100
+Yeshiva Gedola Tiferes Yerachmiel	NJ	9,050
+Rabbinical College Ohr Yisroel	NY	9,000
+Carolina Christian College	NC	8,930
+Yeshiva Gedolah Shaarei Shmuel	NJ	8,800
+Arkansas Baptist College	AR	8,760
+Yeshiva Zichron Aryeh	NY	8,750
+Holy Apostles College and Seminary	CT	8,720
+Inter American University of Puerto Rico-Metro	PR	8,655
+Yeshiva Gedolah Keren Hatorah	NJ	8,650
+Yeshiva Gedolah of Woodlake Village	NJ	8,650
+Universidad Politecnica de Puerto Rico	PR	8,640
+Yeshivath Viznitz	NY	8,640
+Bais Medrash Elyon	NY	8,600
+Virginia University of Lynchburg	VA	8,600
+Rabbinical College Bobover Yeshiva Bnei Zion	NY	8,500
+Beulah Heights University	GA	8,492
+Luther Rice College & Seminary	GA	8,448
+Antioch College AG	VA	8,420
+Midwestern Baptist Theological Seminary	MO	8,410
+Catholic Distance University	WV	8,405
+Universidad Central Del Caribe	PR	8,387
+Heritage Bible College	NC	8,328
+Rabbinical Seminary Mkor Chaim	NJ	8,300
+Yeshivah Gedolah Rabbinical College	FL	8,300
+Yeshiva Ohr Yisrael	NY	8,250
+Yeshiva of Ocean	NY	8,150
+Southwestern Christian College	TX	8,132
+Donnelly College	KS	8,100
+Presbyterian Theological Seminary in America	CA	7,935
+Drury University-College of Continuing Professional Studies	MO	7,924
+Family of Faith Christian University	OK	7,920
+Associated Beth Rivkah Schools	NY	7,900
+Bellevue University	NE	7,851
+Yeshiva Gedolah of Cliffwood	NJ	7,850
+Yeshiva Gedolah of Greater Detroit	MI	7,800
+Central Yeshiva Tomchei Tmimim Lubavitz	NY	7,700
+Champion Christian College	AR	7,654
+Midwives College of Utah	UT	7,635
+Summit Christian College	NE	7,570
+Atlantic University College	PR	7,500
+Yeshiva D'monsey Rabbinical College	NY	7,500
+Dewey University-Carolina	PR	7,495
+Dewey University-Juana Díaz	PR	7,495
+Dewey University-Manati	PR	7,495
+Christ Mission College	TX	7,465
+Albizu University-San Juan	PR	7,434
+University of Fort Lauderdale	FL	7,410
+Atenas College	PR	7,370
+Mayo Clinic College of Medicine and Science	MN	7,290
+Universidad Adventista de las Antillas	PR	7,250
+Bais Medrash Toras Chesed	NJ	7,200
+Latin American Bible Institute	CA	7,200
+Gods Bible School and College	OH	7,150
+South Florida Bible College and Theological Seminary	FL	7,140
+Indian Bible College	AZ	7,080
+Hobe Sound Bible College	FL	7,048
+Simmons College of Kentucky	KY	6,990
+Amridge University	AL	6,950
+Baptist Missionary Association Theological Seminary	TX	6,900
+Haven University	CA	6,860
+College of Biblical Studies-Houston	TX	6,801
+Allegheny Wesleyan College	OH	6,800
+Veritas Baptist College	IN	6,716
+Logan University	MO	6,700
+Western Governors University	UT	6,670
+Bethesda University	CA	6,580
+American University of Puerto Rico	PR	6,555
+American University of Puerto Rico	PR	6,555
+Baptist University of the Americas	TX	6,480
+Grace School of Theology	TX	6,480
+World Mission University	CA	6,440
+Central Methodist University-College of Graduate and Extended Studies	MO	6,430
+Union Bible College	IN	6,380
+Universidad Teologica del Caribe	PR	6,366
+Dewey University-Hato Rey	PR	6,330
+Warner Pacific University Professional and Graduate Studies	OR	6,310
+Southeastern Baptist College	MS	6,275
+America Evangelical University	CA	6,250
+College of Menominee Nation	WI	6,200
+EDP University of Puerto Rico Inc-San Juan	PR	6,200
+EDP University of Puerto Rico Inc-San Sebastian	PR	6,200
+EDP University of Puerto Rico-Humacao	PR	6,200
+EDP University of Puerto Rico-Manati	PR	6,200
+EDP University of Puerto Rico-Villalba	PR	6,200
+Grace College of Divinity	NC	6,200
+Talmudical Institute of Upstate New York	NY	6,150
+Pacific Islands University	GU	6,110
+Inter American University of Puerto Rico-Bayamon	PR	6,012
+Inter American University of Puerto Rico-Fajardo	PR	6,012
+Inter American University of Puerto Rico-San German	PR	6,012
+City Vision University	MO	6,000
+Universidad del Sagrado Corazon	PR	6,000
+Inter American University of Puerto Rico-Arecibo	PR	5,986
+Inter American University of Puerto Rico-Ponce	PR	5,986
+Inter American University of Puerto Rico-Aguadilla	PR	5,974
+Inter American University of Puerto Rico-Barranquitas	PR	5,974
+Inter American University of Puerto Rico-Guayama	PR	5,974
+Brigham Young University	UT	5,970
+Carolina College of Biblical Studies	NC	5,964
+Brigham Young University-Hawaii	HI	5,890
+Universidad Ana G. Mendez-Carolina Campus	PR	5,820
+Universidad Ana G. Mendez-Cupey Campus	PR	5,820
+Universidad Ana G. Mendez-Gurabo Campus	PR	5,820
+Humacao Community College	PR	5,742
+Urshan College	MO	5,556
+Pontifical Catholic University of Puerto Rico-Ponce	PR	5,510
+Caribbean University-Bayamon	PR	5,496
+Caribbean University-Carolina	PR	5,496
+Caribbean University-Ponce	PR	5,496
+Caribbean University-Vega Baja	PR	5,496
+Universidad Central de Bayamon	PR	5,462
+Pontifical Catholic University of Puerto Rico-Arecibo	PR	5,408
+Pontifical Catholic University of Puerto Rico-Mayaguez	PR	5,408
+Maple Springs Baptist Bible College and Seminary	MD	5,400
+Reformed University	GA	5,360
+Shiloh University	IA	5,250
+Universidad Ana G. Mendez-Online Campus	PR	5,080
+Huntsville Bible College	AL	4,560
+Pacific Bible College	OR	4,370
+Brigham Young University-Idaho	ID	4,300
+United Tribes Technical College	ND	4,252
+Universidad Pentecostal Mizpa	PR	4,220
+Sioux Falls Seminary	SD	3,600
+Grace Mission University	CA	3,120
+Curtis Institute of Music	PA	3,015
+Turtle Mountain Community College	ND	2,250
+School of Visual Arts	NY	43,400
+Hussian College-Los Angeles	CA	40,452
+Unitek College	CA	35,284
+West Coast University-Los Angeles	CA	35,110
+West Coast University-Ontario	CA	35,110
+DigiPen Institute of Technology	WA	33,900
+New York Film Academy	CA	33,834
+SAE Institute of Technology-Nashville	TN	33,199
+The Modern College of Design	OH	33,164
+FIDM-Fashion Institute of Design & Merchandising-Los Angeles	CA	32,645
+FIDM-Fashion Institute of Design & Merchandising-San Francisco	CA	32,645
+Los Angeles Academy of Figurative Art	CA	32,093
+California Aeronautical University	CA	31,716
+Gnomon	CA	31,554
+Felbry College School of Nursing	OH	30,315
+Seattle Film Institute	WA	30,240
+Newschool of Architecture and Design	CA	29,427
+Bay State College	MA	29,200
+LIM College	NY	28,756
+The Creative Center	NE	27,700
+Berkeley College-New York	NY	27,000
+Berkeley College-Woodland Park	NJ	27,000
+Full Sail University	FL	25,820
+Los Angeles College of Music	CA	25,650
+Design Institute of San Diego	CA	25,649
+Five Towns College	NY	25,595
+Neumont College of Computer Science	UT	25,440
+Musicians Institute	CA	24,795
+Academy of Art University	CA	24,664
+West Coast University-Orange County	CA	24,211
+Walnut Hill College	PA	23,550
+SAE Expression College	CA	23,399
+American University of Health Sciences	CA	23,329
+West Coast University-Miami	FL	23,241
+Beverly Hills Design Institute	CA	23,220
+Waldorf University	IA	23,088
+The North Coast College	OH	22,800
+Institute of Production and Recording	MN	22,635
+The College of Westchester	NY	22,410
+New England Culinary Institute	VT	22,210
+Spartan College of Aeronautics and Technology	OK	21,915
+Cogswell University of Silicon Valley	CA	21,784
+Hussian College-Philadelphia	PA	21,428
+Hussian College-Daymar College Murfreesboro	TN	21,004
+Rocky Mountain College of Art and Design	CO	20,725
+Hussian College-Daymar College Nashville	TN	20,724
+Hussian College-Daymar College Bowling Green	KY	20,636
+Platt College-Aurora	CO	20,590
+Chamberlain University-Illinois	IL	20,381
+Interior Designers Institute	CA	20,250
+Arizona College of Nursing-Las Vegas	NV	20,170
+Arizona College of Nursing-Phoenix	AZ	20,170
+Arizona College of Nursing-Tampa	FL	20,170
+Arizona College of Nursing-Tempe	AZ	20,170
+Arizona College of Nursing-Tucson	AZ	20,170
+Arizona College-Dallas	TX	20,170
+Arizona College of Nursing-Fort Lauderdale	FL	20,090
+Hussian College-Daymar College Clarksville	TN	19,884
+Chamberlain University-Arizona	AZ	19,766
+Chamberlain University-California	CA	19,766
+Chamberlain University-Nevada	NV	19,766
+Chamberlain University-New Jersey	NJ	19,766
+Chamberlain University-Virginia	VA	19,766
+Paier College of Art Inc	CT	19,670
+Chamberlain University-Florida	FL	19,469
+Chamberlain University-Georgia	GA	19,469
+Chamberlain University-Indiana	IN	19,469
+Chamberlain University-Louisiana	LA	19,469
+Chamberlain University-Michigan	MI	19,469
+Chamberlain University-Missouri	MO	19,469
+Chamberlain University-North Carolina	NC	19,469
+Chamberlain University-Ohio	OH	19,469
+Chamberlain University-Texas	TX	19,469
+AI Miami International University of Art and Design	FL	19,354
+Miami International University of Art & Design-Art Institute Dallas	TX	19,354
+South University-High Point	NC	19,354
+The Art Institute of Atlanta	GA	19,354
+The Art Institute of Austin	TX	19,354
+The Art Institute of Houston	TX	19,354
+The Art Institute of San Antonio	TX	19,354
+The Art Institute of Virginia Beach	VA	19,354
+Nossi College of Art	TN	19,150
+Bryant & Stratton College-Wauwatosa	WI	18,962
+Bryant & Stratton College-Syracuse North	NY	18,795
+Central Penn College	PA	18,714
+Charter College	WA	18,711
+Academy College	MN	18,699
+West Coast Ultrasound Institute	CA	18,600
+Northwestern College	IL	18,475
+Bryant & Stratton College-Greece	NY	18,447
+Southern California Institute of Technology	CA	18,390
+University of Advancing Technology	AZ	18,378
+West Coast University-Dallas	TX	18,300
+DeVry College of New York	NY	18,288
+Bryant & Stratton College-Parma	OH	18,272
+Bryant & Stratton College-Albany	NY	18,215
+DeVry University-Pennsylvania	PA	18,192
+DeVry University-North Carolina	NC	18,160
+Northwest College of Art & Design	WA	18,100
+DeVry University-New Jersey	NJ	18,096
+DeVry University-Virginia	VA	18,032
+DeVry University-Nevada	NV	17,872
+Bryant & Stratton College-Buffalo	NY	17,833
+DeVry University-California	CA	17,808
+DeVry University-Colorado	CO	17,808
+DeVry University-Tennessee	TN	17,808
+Grand Canyon University	AZ	17,800
+DeVry University-Florida	FL	17,776
+Bryant & Stratton College-Virginia Beach	VA	17,746
+DeVry University-Ohio	OH	17,744
+Broadview University-West Jordan	UT	17,712
+DeVry University-Arizona	AZ	17,712
+DeVry University-Georgia	GA	17,712
+DeVry University-Indiana	IN	17,712
+DeVry University-Illinois	IL	17,680
+DeVry University-Texas	TX	17,680
+HCI College	FL	17,670
+DeVry University-Missouri	MO	17,584
+Platt College-San Diego	CA	17,235
+South University-Austin	TX	17,014
+South University-Columbia	SC	17,014
+South University-Montgomery	AL	17,014
+South University-Richmond	VA	17,014
+South University-Savannah	GA	17,014
+South University-Tampa	FL	17,014
+South University-Virginia Beach	VA	17,014
+South University-West Palm Beach	FL	17,014
+South College	TN	16,975
+Salem University	WV	16,900
+Eastwick College-Ramsey	NJ	16,882
+ECPI University	VA	16,639
+Centura College-Chesapeake	VA	16,637
+Centura College-Virginia Beach	VA	16,637
+Post University	CT	16,610
+Living Arts College	NC	16,600
+Monroe College	NY	16,536
+Eastern International College-Jersey City	NJ	16,442
+John Patrick University of Health and Applied Sciences	IN	16,100
+Southwest University at El Paso	TX	16,000
+Vista College-Online	TX	15,943
+Bryan University	MO	15,782
+Eastern International College-Belleville	NJ	15,575
+Provo College	UT	15,219
+Provo College-Idaho Falls Campus	ID	15,219
+Stratford University	VA	15,135
+Bryant & Stratton College-Online	NY	15,076
+National American University-Georgetown	TX	14,985
+National American University-Rapid City	SD	14,985
+Wade College	TX	14,955
+Eagle Gate College-Layton	UT	14,900
+Eagle Gate College-Murray	UT	14,900
+American InterContinental University-Houston	TX	14,489
+Schiller International University	FL	14,360
+Platt College-Anaheim	CA	14,354
+Platt College-Los Angeles	CA	14,354
+Platt College-Ontario	CA	14,354
+Platt College-Riverside	CA	14,354
+American Institute of Alternative Medicine	OH	14,338
+Ashford University	CA	14,278
+Hamilton Technical College	IA	14,275
+Capella University	MN	14,148
+IGlobal University	VA	14,000
+Southern Technical College	FL	13,895
+Sullivan University	KY	13,860
+Florida National University-Main Campus	FL	13,688
+Alliant International University-San Diego	CA	13,680
+South University-Savannah Online	GA	13,594
+Westcliff University	CA	13,560
+Strayer University-Alabama	AL	13,515
+Strayer University-Arkansas	AR	13,515
+Strayer University-Delaware	DE	13,515
+Strayer University-District of Columbia	DC	13,515
+Strayer University-Florida	FL	13,515
+Strayer University-Georgia	GA	13,515
+Strayer University-Global Region	DC	13,515
+Strayer University-Maryland	MD	13,515
+Strayer University-Mississippi	MS	13,515
+Strayer University-New Jersey	NJ	13,515
+Strayer University-North Carolina	NC	13,515
+Strayer University-Pennsylvania	PA	13,515
+Strayer University-South Carolina	SC	13,515
+Strayer University-Tennessee	TN	13,515
+Strayer University-Texas	TX	13,515
+Strayer University-Virginia	VA	13,515
+Strayer University-West Virginia	WV	13,515
+Plaza College	NY	13,450
+Beckfield College-Florence	KY	13,295
+Eagle Gate College-Boise Campus	ID	13,260
+American InterContinental University-Atlanta	GA	12,692
+Jamestown Business College	NY	12,645
+Colorado Technical University-Colorado Springs	CO	12,573
+AmeriTech College-Draper	UT	12,544
+ASA College	NY	12,528
+Rasmussen University-Illinois	IL	12,311
+Stevens-The Institute of Business & Arts	MO	12,285
+Rasmussen University-Minnesota	MN	12,233
+Walden University	MN	12,180
+Rasmussen University-Florida	FL	12,054
+Rasmussen University-Wisconsin	WI	11,879
+Rasmussen University-Kansas	KS	11,777
+Bryan University	AZ	11,755
+Santa Barbara Business College-Bakersfield	CA	11,658
+Santa Barbara Business College-Santa Maria	CA	11,658
+American InterContinental University	AZ	11,646
+American College of Healthcare Sciences	OR	11,640
+American National University-Pikeville	KY	11,136
+Key College	FL	11,085
+Acupuncture and Massage College	FL	10,943
+California Intercontinental University	CA	10,805
+Atlantis University	FL	10,800
+American National University	VA	10,772
+Rasmussen University-North Dakota	ND	10,709
+Pacific College of Oriental Medicine-New York	NY	10,529
+Ponce Health Sciences University-East	PR	10,506
+Jose Maria Vargas University	FL	10,480
+San Ignacio University	FL	10,400
+International Sports Sciences Association	CA	10,107
+California Miramar University	CA	9,994
+Millennia Atlantic University	FL	9,876
+Pacific College of Health and Science	CA	9,791
+University of Phoenix-Arizona	AZ	9,552
+University of Phoenix-California	CA	9,552
+University of Phoenix-Hawaii	HI	9,552
+University of Phoenix-Nevada	NV	9,552
+University of Phoenix-Texas	TX	9,552
+University of Management and Technology	VA	9,450
+United International College	FL	8,907
+CEM College-Bayamon	PR	8,616
+CEM College-Humacao	PR	8,616
+CEM College-Mayaguez	PR	8,616
+CEM College-San Juan	PR	8,616
+Grantham University	KS	8,280
+National Paralegal College	AZ	7,995
+American Public University System	WV	7,360
+EDIC College	PR	7,350
+Columbia Central University-Caguas	PR	7,180
+Columbia Central University-Yauco	PR	7,180
+Huertas College	PR	7,165
+Pacific College of Health Science-Chicago	IL	6,880
+NUC University	PR	6,675
+University of the Potomac-VA Campus	VA	6,660
+University of the Potomac-Washington DC Campus	DC	6,660
+Huntington University of Health Sciences	TN	6,610
+United States University	CA	6,480
+San Diego Global Knowledge University	CA	6,476
+Abraham Lincoln University	CA	6,400
+National American University-Ellsworth AFB Extension	SD	6,075
+National American University-Kings Bay	GA	6,075
+Southern States University	CA	5,913
+Columbia Southern University	AL	5,775
+Aspen University	CO	5,110
+University of Pittsburgh-Titusville	PA	11,626
+Marion Military Institute	AL	9,418
+Thaddeus Stevens College of Technology	PA	8,450
+Ohio State University Agricultural Technical Institute	OH	8,295
+Western Dakota Technical College	SD	8,274
+Salina Area Technical College	KS	8,127
+Richard Bland College	VA	8,100
+University of South Carolina-Lancaster	SC	7,558
+University of South Carolina-Salkehatchie	SC	7,558
+University of South Carolina-Sumter	SC	7,558
+University of South Carolina-Union	SC	7,558
+Southeast Technical College	SD	7,470
+Manhattan Area Technical College	KS	7,440
+Mitchell Technical College	SD	7,359
+North Central Kansas Technical College	KS	7,324
+Great Bay Community College	NH	7,200
+NHTI-Concord's Community College	NH	7,200
+River Valley Community College	NH	7,160
+Nashua Community College	NH	7,140
+Manchester Community College	NH	7,090
+White Mountains Community College	NH	7,050
+Quincy College	MA	6,960
+Community College of Vermont	VT	6,920
+Lake Area Technical College	SD	6,862
+Clinton Community College	NY	6,831
+Harrisburg Area Community College	PA	6,758
+Iowa Lakes Community College	IA	6,748
+Lakes Region Community College	NH	6,738
+Community College of Beaver County	PA	6,720
+Bates Technical College	WA	6,628
+Wichita State University-Campus of Applied Sciences and Technology	KS	6,602
+College of the Muscogee Nation	OK	6,600
+North Country Community College	NY	6,562
+Tompkins Cortland Community College	NY	6,547
+Muskegon Community College	MI	6,530
+State Technical College of Missouri	MO	6,510
+Pennsylvania Highlands Community College	PA	6,450
+Northwest Iowa Community College	IA	6,390
+Jamestown Community College	NY	6,336
+Southwestern Community College	IA	6,336
+Nassau Community College	NY	6,330
+Sullivan County Community College	NY	6,310
+Blue Mountain Community College	OR	6,300
+Southwestern Oregon Community College	OR	6,260
+Murray State College	OK	6,231
+Flint Hills Technical College	KS	6,200
+Texas State Technical College	TX	6,169
+SUNY Broome Community College	NY	6,136
+Iowa Western Community College	IA	6,120
+University of Akron Wayne College	OH	6,116
+Orange County Community College	NY	6,094
+Middlesex Community College	MA	6,048
+Northeast Iowa Community College	IA	6,000
+Suffolk County Community College	NY	5,977
+Hudson Valley Community College	NY	5,964
+Ridgewater College	MN	5,958
+Dakota County Technical College	MN	5,941
+Minnesota West Community and Technical College	MN	5,936
+Southeastern Community College	IA	5,910
+Cayuga County Community College	NY	5,884
+Delaware County Community College	PA	5,870
+Jefferson State Community College	AL	5,850
+Minnesota State College Southeast	MN	5,835
+SUNY Adirondack	NY	5,832
+Quinsigamond Community College	MA	5,830
+Riverland Community College	MN	5,826
+SUNY Corning Community College	NY	5,824
+Reading Area Community College	PA	5,820
+Anoka Technical College	MN	5,812
+Saint Paul College	MN	5,811
+Northland Community and Technical College	MN	5,793
+North Iowa Area Community College	IA	5,791
+Hawkeye Community College	IA	5,790
+Roxbury Community College	MA	5,784
+Treasure Valley Community College	OR	5,760
+Central Lakes College-Brainerd	MN	5,759
+Onondaga Community College	NY	5,754
+Ulster County Community College	NY	5,740
+Northwest Technical College	MN	5,731
+Montgomery County Community College	PA	5,730
+Erie Community College	NY	5,722
+Fulton-Montgomery Community College	NY	5,718
+Central Carolina Technical College	SC	5,715
+Herkimer County Community College	NY	5,706
+Owens Community College	OH	5,702
+Iowa Central Community College	IA	5,700
+Jefferson Community College	NY	5,688
+Normandale Community College	MN	5,679
+Chemeketa Community College	OR	5,670
+Luzerne County Community College	PA	5,670
+University of Arkansas-Pulaski Technical College	AR	5,670
+Mount Wachusett Community College	MA	5,668
+Monroe Community College	NY	5,662
+Minneapolis Community and Technical College	MN	5,660
+Alexandria Technical & Community College	MN	5,649
+Denmark Technical College	SC	5,648
+Brookdale Community College	NJ	5,639
+St Cloud Technical and Community College	MN	5,631
+Rockland Community College	NY	5,618
+Columbia-Greene Community College	NY	5,616
+Northern Virginia Community College	VA	5,610
+Eastern Iowa Community College District	IA	5,600
+Westmoreland County Community College	PA	5,598
+Century College	MN	5,578
+Greenfield Community College	MA	5,570
+Marion Technical College	OH	5,565
+Tidewater Community College	VA	5,561
+Minnesota State Community and Technical College	MN	5,560
+Springfield Technical Community College	MA	5,560
+Inver Hills Community College	MN	5,558
+Salem Community College	NJ	5,550
+Northern Essex Community College	MA	5,544
+Itasca Community College	MN	5,540
+Mesabi Range College	MN	5,540
+Rainy River Community College	MN	5,540
+Vermilion Community College	MN	5,540
+Fond du Lac Tribal and Community College	MN	5,535
+Finger Lakes Community College	NY	5,534
+Williston State College	ND	5,528
+Hibbing Community College	MN	5,525
+Schenectady County Community College	NY	5,524
+Southwestern Michigan College	MI	5,503
+Niagara County Community College	NY	5,501
+Mohawk Valley Community College	NY	5,500
+Hennepin Technical College	MN	5,494
+Berkshire Community College	MA	5,492
+South Central College	MN	5,491
+Linn-Benton Community College	OR	5,487
+Nebraska College of Technical Agriculture	NE	5,483
+J F Ingram State Technical College	AL	5,472
+North Dakota State College of Science	ND	5,450
+County College of Morris	NJ	5,400
+Passaic County Community College	NJ	5,400
+Holyoke Community College	MA	5,378
+Massachusetts Bay Community College	MA	5,376
+Blue Ridge Community College	VA	5,364
+Redlands Community College	OK	5,360
+Virginia Western Community College	VA	5,355
+Cape Cod Community College	MA	5,352
+North Shore Community College	MA	5,352
+Snead State Community College	AL	5,344
+Atlantic Cape Community College	NJ	5,340
+Terra State Community College	OH	5,338
+Clackamas Community College	OR	5,334
+Lake Superior College	MN	5,334
+Montgomery College	MD	5,322
+Southern State Community College	OH	5,312
+Trinidad State Junior College	CO	5,299
+Umpqua Community College	OR	5,297
+Northeastern Junior College	CO	5,288
+Anoka-Ramsey Community College	MN	5,286
+Mt Hood Community College	OR	5,286
+Union County College	NJ	5,281
+CUNY Kingsborough Community College	NY	5,252
+Rochester Community and Technical College	MN	5,252
+Bay de Noc Community College	MI	5,250
+Butler County Community College	PA	5,250
+Ocean County College	NJ	5,250
+Raritan Valley Community College	NJ	5,232
+CUNY LaGuardia Community College	NY	5,218
+St Clair County Community College	MI	5,215
+Bevill State Community College	AL	5,214
+CUNY Queensborough Community College	NY	5,210
+CUNY Hostos Community College	NY	5,208
+CUNY Bronx Community College	NY	5,206
+CUNY Stella and Charles Guttman Community College	NY	5,194
+Seminole State College	OK	5,190
+Warren County Community College	NJ	5,190
+Hocking College	OH	5,180
+CUNY Borough of Manhattan Community College	NY	5,170
+Gogebic Community College	MI	5,165
+Bunker Hill Community College	MA	5,160
+Massasoit Community College	MA	5,160
+Lane Community College	OR	5,153
+Oregon Coast Community College	OR	5,148
+New Mexico Military Institute	NM	5,144
+BridgeValley Community & Technical College	WV	5,142
+Kirkwood Community College	IA	5,140
+Little Priest Tribal College	NE	5,140
+Technical College of the Lowcountry	SC	5,140
+Bristol Community College	MA	5,136
+Parkland College	IL	5,130
+Dakota College at Bottineau	ND	5,106
+Des Moines Area Community College	IA	5,100
+Spoon River College	IL	5,100
+Sussex County Community College	NJ	5,100
+South Suburban College	IL	5,093
+Edison State Community College	OH	5,050
+Genesee Community College	NY	5,040
+Rogue Community College	OR	5,040
+SUNY Westchester Community College	NY	5,036
+York Technical College	SC	5,035
+Neosho County Community College	KS	5,032
+Danville Area Community College	IL	5,025
+J Sargeant Reynolds Community College	VA	4,998
+Mid Michigan College	MI	4,996
+Essex County College	NJ	4,995
+Flathead Valley Community College	MT	4,991
+Pierpont Community and Technical College	WV	4,986
+Kishwaukee College	IL	4,980
+Western Oklahoma State College	OK	4,978
+Northeastern Technical College	SC	4,974
+Ellsworth Community College	IA	4,968
+Marshalltown Community College	IA	4,968
+Enterprise State Community College	AL	4,960
+Kankakee Community College	IL	4,950
+Aiken Technical College	SC	4,946
+John C Calhoun State Community College	AL	4,940
+Central Alabama Community College	AL	4,930
+Chattahoochee Valley Community College	AL	4,920
+Reid State Technical College	AL	4,920
+Wisconsin Indianhead Technical College	WI	4,917
+Northeastern Oklahoma A&M College	OK	4,913
+Anne Arundel Community College	MD	4,910
+Spartanburg Community College	SC	4,902
+Bucks County Community College	PA	4,898
+Dutchess Community College	NY	4,896
+Heartland Community College	IL	4,890
+John Wood Community College	IL	4,890
+Columbus State Community College	OH	4,888
+Bishop State Community College	AL	4,860
+Coastal Alabama Community College	AL	4,860
+George C Wallace State Community College-Hanceville	AL	4,860
+Lawson State Community College	AL	4,860
+Lurleen B Wallace Community College	AL	4,860
+Northeast Alabama Community College	AL	4,860
+Southern Union State Community College	AL	4,860
+Leech Lake Tribal College	MN	4,850
+Lake Region State College	ND	4,843
+Central Virginia Community College	VA	4,838
+Northwest-Shoals Community College	AL	4,831
+J. F. Drake State Community and Technical College	AL	4,830
+Sauk Valley Community College	IL	4,830
+Rappahannock Community College	VA	4,820
+Hudson County Community College	NJ	4,814
+Carl Sandburg College	IL	4,810
+Portland Community College	OR	4,810
+Community College of Rhode Island	RI	4,806
+Thomas Nelson Community College	VA	4,806
+Eastern Shore Community College	VA	4,800
+George C Wallace Community College-Dothan	AL	4,800
+John Tyler Community College	VA	4,800
+Piedmont Virginia Community College	VA	4,790
+Southern University at Shreveport	LA	4,789
+Midlands Technical College	SC	4,788
+Central Ohio Technical College	OH	4,776
+H Councill Trenholm State Community College	AL	4,770
+Eastern Oklahoma State College	OK	4,767
+Florence-Darlington Technical College	SC	4,766
+Lake Michigan College	MI	4,763
+Morton College	IL	4,756
+Rose State College	OK	4,754
+Columbia Gorge Community College	OR	4,752
+Cecil College	MD	4,740
+Lord Fairfax Community College	VA	4,739
+Allegany College of Maryland	MD	4,730
+Louisiana State University-Eunice	LA	4,730
+Milwaukee Area Technical College	WI	4,730
+Orangeburg Calhoun Technical College	SC	4,730
+Paul D Camp Community College	VA	4,730
+Rowan College at Burlington County	NJ	4,730
+Danville Community College	VA	4,725
+Wytheville Community College	VA	4,725
+Patrick Henry Community College	VA	4,720
+Dabney S Lancaster Community College	VA	4,710
+Mountain Empire Community College	VA	4,710
+Northampton County Area Community College	PA	4,710
+Virginia Highlands Community College	VA	4,710
+Southwest Virginia Community College	VA	4,703
+New River Community College	VA	4,697
+South Puget Sound Community College	WA	4,695
+Southside Virginia Community College	VA	4,695
+Montcalm Community College	MI	4,680
+Williamsburg Technical College	SC	4,680
+Fox Valley Technical College	WI	4,677
+Northeast Wisconsin Technical College	WI	4,659
+Illinois Central College	IL	4,650
+Trident Technical College	SC	4,648
+Ivy Tech Community College	IN	4,637
+Gateway Technical College	WI	4,621
+Missouri State University-West Plains	MO	4,620
+Kellogg Community College	MI	4,611
+Community College of Allegheny County	PA	4,602
+North Hennepin Community College	MN	4,596
+Richland Community College	IL	4,590
+Waukesha County Technical College	WI	4,588
+Columbia State Community College	TN	4,582
+Mercer County Community College	NJ	4,578
+Bergen Community College	NJ	4,573
+Southern Arkansas University Tech	AR	4,571
+Bluegrass Community and Technical College	KY	4,568
+Gateway Community and Technical College	KY	4,568
+Jefferson Community and Technical College	KY	4,568
+Camden County College	NJ	4,560
+George C Wallace State Community College-Selma	AL	4,560
+Kaskaskia College	IL	4,560
+Rowan College of South Jersey Gloucester Campus	NJ	4,560
+Shelton State Community College	AL	4,560
+Asnuntuck Community College	CT	4,556
+Capital Community College	CT	4,556
+Three Rivers Community College	CT	4,556
+Tunxis Community College	CT	4,556
+Roane State Community College	TN	4,552
+National Park College	AR	4,550
+Piedmont Technical College	SC	4,547
+Norwalk Community College	CT	4,546
+Community College of Philadelphia	PA	4,536
+Central Oregon Community College	OR	4,527
+Manchester Community College	CT	4,516
+Naugatuck Valley Community College	CT	4,516
+Northwestern Connecticut Community College	CT	4,516
+Pickens Technical College	CO	4,510
+Sisseton Wahpeton College	SD	4,510
+Quinebaug Valley Community College	CT	4,506
+Blackhawk Technical College	WI	4,505
+Chippewa Valley Technical College	WI	4,505
+Moraine Park Technical College	WI	4,505
+Nicolet Area Technical College	WI	4,505
+Southwest Wisconsin Technical College	WI	4,500
+Western Technical College	WI	4,500
+Klamath Community College	OR	4,497
+Gateway Community College	CT	4,496
+Housatonic Community College	CT	4,496
+Highland Community College	IL	4,494
+Ashland Community and Technical College	KY	4,488
+Big Sandy Community and Technical College	KY	4,488
+Elizabethtown Community and Technical College	KY	4,488
+Hazard Community and Technical College	KY	4,488
+Henderson Community College	KY	4,488
+Hopkinsville Community College	KY	4,488
+Madisonville Community College	KY	4,488
+Maysville Community and Technical College	KY	4,488
+Owensboro Community and Technical College	KY	4,488
+Somerset Community College	KY	4,488
+Southcentral Kentucky Community and Technical College	KY	4,488
+Southeast Kentucky Community	KY	4,488
+West Kentucky Community and Technical College	KY	4,488
+Western Iowa Tech Community College	IA	4,488
+Big Bend Community College	WA	4,484
+Middlesex Community College	CT	4,476
+Independence Community College	KS	4,471
+Black Hawk College	IL	4,470
+Triton College	IL	4,470
+Mountwest Community and Technical College	WV	4,464
+Mid-State Technical College	WI	4,451
+Tri-County Technical College	SC	4,448
+Indian Hills Community College	IA	4,440
+Joliet Junior College	IL	4,440
+Lehigh Carbon Community College	PA	4,440
+Miles Community College	MT	4,440
+Lakeshore Technical College	WI	4,417
+Keweenaw Bay Ojibwa Community College	MI	4,400
+North Central Michigan College	MI	4,396
+City Colleges of Chicago-Harold Washington College	IL	4,380
+City Colleges of Chicago-Harry S Truman College	IL	4,380
+City Colleges of Chicago-Kennedy-King College	IL	4,380
+City Colleges of Chicago-Malcolm X College	IL	4,380
+City Colleges of Chicago-Olive-Harvey College	IL	4,380
+City Colleges of Chicago-Richard J Daley College	IL	4,380
+City Colleges of Chicago-Wilbur Wright College	IL	4,380
+Community College of Baltimore County	MD	4,380
+Horry-Georgetown Technical College	SC	4,372
+New River Community and Technical College	WV	4,372
+Southwest Tennessee Community College	TN	4,343
+Cleveland State Community College	TN	4,338
+Dyersburg State Community College	TN	4,338
+Northwest State Community College	OH	4,338
+Lamar State College-Port Arthur	TX	4,331
+Motlow State Community College	TN	4,330
+Northwest College	WY	4,330
+Walters State Community College	TN	4,328
+Northeast State Community College	TN	4,326
+James A Rhodes State College	OH	4,325
+Jackson State Community College	TN	4,324
+Pellissippi State Community College	TN	4,318
+West Virginia Northern Community College	WV	4,317
+Volunteer State Community College	TN	4,312
+Stark State College	OH	4,310
+Pine Technical & Community College	MN	4,302
+Nashville State Community College	TN	4,294
+Hagerstown Community College	MD	4,290
+Northern Wyoming Community College District	WY	4,290
+Bossier Parish Community College	LA	4,284
+Lake Land College	IL	4,280
+SOWELA Technical Community College	LA	4,265
+Jefferson College	MO	4,260
+Kirtland Community College	MI	4,260
+Three Rivers College	MO	4,260
+Nunez Community College	LA	4,255
+Clatsop Community College	OR	4,230
+Baton Rouge Community College	LA	4,221
+Delta College	MI	4,220
+Belmont College	OH	4,218
+South Louisiana Community College	LA	4,205
+Shawnee Community College	IL	4,200
+Mott Community College	MI	4,193
+Prairie State College	IL	4,176
+Tillamook Bay Community College	OR	4,176
+College of DuPage	IL	4,140
+Colorado Northwestern Community College	CO	4,140
+Germanna Community College	VA	4,140
+Lamar Community College	CO	4,133
+Blue Ridge Community and Technical College	WV	4,128
+Carroll Community College	MD	4,128
+Rock Valley College	IL	4,124
+Black River Technical College	AR	4,118
+College of Lake County	IL	4,116
+Eastern Wyoming College	WY	4,110
+Northwest Louisiana Technical Community College	LA	4,109
+Northshore Technical Community College	LA	4,103
+Otero Junior College	CO	4,100
+Central Louisiana Technical Community College	LA	4,099
+Frontier Community College	IL	4,090
+Lincoln Trail College	IL	4,090
+Olney Central College	IL	4,090
+Wabash Valley College	IL	4,090
+Southern West Virginia Community and Technical College	WV	4,084
+Howard Community College	MD	4,080
+Nebraska Indian Community College	NE	4,080
+Southeastern Illinois College	IL	4,080
+Delgado Community College	LA	4,079
+River Parishes Community College	LA	4,079
+Louisiana Delta Community College	LA	4,076
+Shoreline Community College	WA	4,076
+John A Logan College	IL	4,066
+Chattanooga State Community College	TN	4,063
+Oklahoma City Community College	OK	4,059
+Rend Lake College	IL	4,050
+Northeast Mississippi Community College	MS	4,036
+Eastern Gateway Community College	OH	4,020
+Illinois Valley Community College	IL	4,000
+Dawson Community College	MT	3,990
+Salt Lake Community College	UT	3,989
+Oakton Community College	IL	3,985
+Fletcher Technical Community College	LA	3,981
+Garrett College	MD	3,976
+Everett Community College	WA	3,972
+Grand Rapids Community College	MI	3,969
+Blinn College	TX	3,960
+Washington State Community College	OH	3,960
+Community College of Aurora	CO	3,940
+Gadsden State Community College	AL	3,936
+College of Southern Maryland	MD	3,930
+Chesapeake College	MD	3,890
+Eastern West Virginia Community and Technical College	WV	3,888
+Casper College	WY	3,882
+Kennebec Valley Community College	ME	3,882
+Southern Maine Community College	ME	3,880
+Eastern Maine Community College	ME	3,877
+Jones County Junior College	MS	3,870
+McHenry County College	IL	3,862
+Southeast Arkansas College	AR	3,855
+Escuela De Troqueleria Y Herramentaje	PR	3,850
+Mineral Area College	MO	3,850
+Washington County Community College	ME	3,850
+Central Maine Community College	ME	3,844
+North Central Missouri College	MO	3,840
+Lansing Community College	MI	3,830
+Northern Maine Community College	ME	3,830
+Harford Community College	MD	3,827
+Carl Albert State College	OK	3,818
+Cisco College	TX	3,810
+Ozarks Technical Community College	MO	3,796
+Colby Community College	KS	3,784
+William Rainey Harper College	IL	3,774
+Mississippi Gulf Coast Community College	MS	3,750
+Northeast Community College	NE	3,750
+Frederick Community College	MD	3,748
+Prince George's Community College	MD	3,746
+Glen Oaks Community College	MI	3,744
+East Mississippi Community College	MS	3,740
+York County Community College	ME	3,720
+Middlesex County College	NJ	3,708
+Instituto Tecnologico de Puerto Rico-Recinto de San Juan	PR	3,707
+Pratt Community College	KS	3,680
+Northcentral Technical College	WI	3,673
+Connors State College	OK	3,672
+Lanier Technical College	GA	3,666
+South Georgia Technical College	GA	3,662
+Southwestern Illinois College	IL	3,660
+Moraine Valley Community College	IL	3,655
+Crowder College	MO	3,648
+Northern Oklahoma College	OK	3,648
+Kalamazoo Valley Community College	MI	3,640
+McLennan Community College	TX	3,640
+Seward County Community College	KS	3,616
+Lakeland Community College	OH	3,611
+Palau Community College	PW	3,610
+Lamar Institute of Technology	TX	3,602
+Clarendon College	TX	3,600
+Highlands College of Montana Tech	MT	3,590
+Cossatot Community College of the University of Arkansas	AR	3,570
+Vernon College	TX	3,560
+Barton County Community College	KS	3,552
+Lewis and Clark Community College	IL	3,552
+Moberly Area Community College	MO	3,510
+Helena College University of Montana	MT	3,507
+Wor-Wic Community College	MD	3,504
+Pearl River Community College	MS	3,500
+Saint Louis Community College	MO	3,495
+Labette Community College	KS	3,488
+Meridian Community College	MS	3,478
+Monroe County Community College	MI	3,464
+Arkansas State University Three Rivers	AR	3,458
+Lincoln Land Community College	IL	3,456
+Western Wyoming Community College	WY	3,456
+Great Falls College Montana State University	MT	3,450
+Hinds Community College	MS	3,450
+Tulsa Community College	OK	3,445
+Cuyahoga Community College District	OH	3,436
+Cowley County Community College	KS	3,420
+Holmes Community College	MS	3,410
+North Idaho College	ID	3,396
+Northwest Mississippi Community College	MS	3,390
+Southwest Mississippi Community College	MS	3,380
+Garden City Community College	KS	3,360
+Georgia State University-Perimeter College	GA	3,360
+Mid-Plains Community College	NE	3,360
+Waubonsee Community College	IL	3,360
+College of Western Idaho	ID	3,336
+Macomb Community College	MI	3,335
+Del Mar College	TX	3,320
+Baltimore City Community College	MD	3,314
+Frank Phillips College	TX	3,308
+Cankdeska Cikana Community College	ND	3,300
+State Fair Community College	MO	3,288
+Kapiolani Community College	HI	3,284
+El Paso Community College	TX	3,274
+Kauai Community College	HI	3,252
+Metropolitan Community College-Kansas City	MO	3,240
+Gwinnett Technical College	GA	3,236
+Augusta Technical College	GA	3,232
+University of Arkansas Community College-Morrilton	AR	3,216
+Central Community College	NE	3,210
+Leeward Community College	HI	3,209
+Hawaii Community College	HI	3,204
+Little Big Horn College	MT	3,200
+Metropolitan Community College Area	NE	3,195
+Windward Community College	HI	3,194
+Lamar State College-Orange	TX	3,192
+Butler Community College	KS	3,181
+Cloud County Community College	KS	3,180
+Copiah-Lincoln Community College	MS	3,180
+Elgin Community College	IL	3,180
+Hutchinson Community College	KS	3,180
+Georgia Piedmont Technical College	GA	3,178
+Honolulu Community College	HI	3,174
+East Central College	MO	3,168
+Itawamba Community College	MS	3,160
+Wiregrass Georgia Technical College	GA	3,152
+East Central Community College	MS	3,150
+Highland Community College	KS	3,150
+Northeast Texas Community College	TX	3,149
+Texas Southmost College	TX	3,148
+Mississippi Delta Community College	MS	3,140
+Ogeechee Technical College	GA	3,140
+Southeastern Technical College	GA	3,127
+College of Eastern Idaho	ID	3,126
+Southern Crescent Technical College	GA	3,126
+Chattahoochee Technical College	GA	3,120
+Kansas City Kansas Community College	KS	3,120
+Northeast Lakeview College	TX	3,112
+Northwest Vista College	TX	3,112
+Palo Alto College	TX	3,112
+San Antonio College	TX	3,112
+St Philip's College	TX	3,112
+North Arkansas College	AR	3,090
+Atlanta Technical College	GA	3,084
+Allen County Community College	KS	3,080
+Oconee Fall Line Technical College	GA	3,072
+University of Arkansas Community College Rich Mountain	AR	3,072
+Athens Technical College	GA	3,062
+Georgia Northwestern Technical College	GA	3,062
+Fort Scott Community College	KS	3,060
+West Georgia Technical College	GA	3,052
+Central Georgia Technical College	GA	3,042
+Columbus Technical College	GA	3,042
+Savannah Technical College	GA	3,042
+Wayne County Community College District	MI	3,042
+Coffeyville Community College	KS	3,040
+North Georgia Technical College	GA	3,022
+Phillips Community College of the University of Arkansas	AR	3,020
+Ozarka College	AR	3,004
+Coahoma Community College	MS	3,003
+Southern Regional Technical College	GA	3,002
+Albany Technical College	GA	2,996
+University of Arkansas Hope-Texarkana	AR	2,980
+Western Nebraska Community College	NE	2,976
+West Shore Community College	MI	2,944
+Arkansas State University-Beebe	AR	2,928
+East Arkansas Community College	AR	2,925
+Arkansas State University-Mountain Home	AR	2,904
+St Charles Community College	MO	2,880
+Arkansas State University-Newport	AR	2,856
+Central Texas College	TX	2,850
+Dodge City Community College	KS	2,850
+Arizona Western College	AZ	2,840
+Sampson Community College	NC	2,830
+Angelina College	TX	2,820
+Johnson County Community College	KS	2,820
+Navarro College	TX	2,798
+Central Piedmont Community College	NC	2,792
+Western Texas College	TX	2,790
+Sandhills Community College	NC	2,764
+Coastal Pines Technical College	GA	2,759
+Cape Fear Community College	NC	2,748
+Arkansas State University Mid-South	AR	2,746
+Temple College	TX	2,736
+Coconino Community College	AZ	2,712
+Gaston College	NC	2,704
+Eastern Arizona College	AZ	2,700
+South Arkansas Community College	AR	2,700
+Stanly Community College	NC	2,674
+Nash Community College	NC	2,666
+Southeast Community College Area	NE	2,664
+Surry Community College	NC	2,663
+Johnston Community College	NC	2,657
+NorthWest Arkansas Community College	AR	2,656
+Blue Ridge Community College	NC	2,651
+Mitchell Community College	NC	2,651
+Roanoke-Chowan Community College	NC	2,642
+Wilson Community College	NC	2,642
+Carteret Community College	NC	2,640
+Edgecombe Community College	NC	2,640
+Trinity Valley Community College	TX	2,640
+Coastal Bend College	TX	2,633
+Asheville-Buncombe Technical Community College	NC	2,632
+Rowan-Cabarrus Community College	NC	2,632
+Halifax Community College	NC	2,608
+Cleveland Community College	NC	2,602
+Southeastern Community College	NC	2,600
+Yavapai College	AZ	2,600
+Davidson County Community College	NC	2,588
+Central Arizona College	AZ	2,580
+Haywood Community College	NC	2,580
+Western Piedmont Community College	NC	2,577
+Wilkes Community College	NC	2,572
+James Sprunt Community College	NC	2,570
+Southwest Collegiate Institute for the Deaf	TX	2,570
+Lenoir Community College	NC	2,568
+Robeson Community College	NC	2,563
+Howard College	TX	2,560
+Ranger College	TX	2,560
+Bladen Community College	NC	2,558
+Mayland Community College	NC	2,558
+Central Carolina Community College	NC	2,554
+Piedmont Community College	NC	2,546
+Fayetteville Technical Community College	NC	2,544
+Montgomery Community College	NC	2,537
+Richmond Community College	NC	2,536
+Brunswick Community College	NC	2,532
+Caldwell Community College and Technical Institute	NC	2,528
+Oakland Community College	MI	2,528
+University of Arkansas Community College-Batesville	AR	2,526
+Wayne Community College	NC	2,524
+Washtenaw Community College	MI	2,520
+Beaufort County Community College	NC	2,518
+Hillsborough Community College	FL	2,506
+Southwest Texas Junior College	TX	2,502
+Victoria College	TX	2,496
+Alamance Community College	NC	2,492
+Coastal Carolina Community College	NC	2,462
+Paris Junior College	TX	2,460
+Wake Technical Community College	NC	2,432
+Northland Pioneer College	AZ	2,428
+Texarkana College	TX	2,404
+North Central Texas College	TX	2,400
+Wharton County Junior College	TX	2,400
+Randolph Community College	NC	2,386
+Hill College	TX	2,382
+Arkansas Northeastern College	AR	2,374
+Catawba Valley Community College	NC	2,367
+Tri-County Community College	NC	2,363
+Southwestern Community College	NC	2,337
+Guilford Technical Community College	NC	2,319
+College of the Albemarle	NC	2,270
+Chief Dull Knife College	MT	2,260
+South Plains College	TX	2,260
+Eastern New Mexico University-Roswell Campus	NM	2,256
+Fort Peck Community College	MT	2,250
+Pima Community College	AZ	2,250
+Saginaw Chippewa Tribal College	MI	2,210
+Cochise County Community College District	AZ	2,184
+Lee College	TX	2,166
+Kilgore College	TX	2,160
+Forsyth Technical Community College	NC	2,152
+Santa Fe Community College	NM	2,145
+Amarillo College	TX	2,136
+Mesalands Community College	NM	2,136
+Craven Community College	NC	2,114
+Mohave Community College	AZ	2,112
+University of New Mexico-Los Alamos Campus	NM	2,076
+Chandler-Gilbert Community College	AZ	2,070
+Estrella Mountain Community College	AZ	2,070
+GateWay Community College	AZ	2,070
+Glendale Community College	AZ	2,070
+Mesa Community College	AZ	2,070
+Paradise Valley Community College	AZ	2,070
+Phoenix College	AZ	2,070
+Rio Salado College	AZ	2,070
+Scottsdale Community College	AZ	2,070
+South Mountain Community College	AZ	2,070
+New Mexico State University-Grants	NM	2,064
+Panola College	TX	2,064
+New Mexico State University-Alamogordo	NM	2,054
+Houston Community College	TX	2,040
+South Piedmont Community College	NC	2,015
+Isothermal Community College	NC	1,994
+Rockingham Community College	NC	1,966
+Durham Technical Community College	NC	1,958
+Vance-Granville Community College	NC	1,948
+Pitt Community College	NC	1,940
+University of New Mexico-Gallup Campus	NM	1,932
+McDowell Technical Community College	NC	1,926
+Martin Community College	NC	1,915
+University of New Mexico-Valencia County Campus	NM	1,878
+University of New Mexico-Taos Campus	NM	1,872
+Pamlico Community College	NC	1,867
+Aims Community College	CO	1,826
+New Mexico State University-Dona Ana	NM	1,776
+College of the Mainland	TX	1,773
+Tarrant County College District	TX	1,728
+Alvin Community College	TX	1,706
+Central New Mexico Community College	NM	1,650
+San Juan College	NM	1,618
+Instituto Tecnologico de Puerto Rico-Recinto de Guayama	PR	1,600
+Instituto Tecnologico de Puerto Rico-Recinto de Manati	PR	1,600
+De Anza College	CA	1,561
+Long Beach City College	CA	1,556
+College of the Siskiyous	CA	1,496
+College of Marin	CA	1,494
+West Valley College	CA	1,486
+Skyline College	CA	1,464
+Evergreen Valley College	CA	1,448
+College of San Mateo	CA	1,434
+Mendocino College	CA	1,426
+Victor Valley College	CA	1,424
+Moreno Valley College	CA	1,420
+Norco College	CA	1,420
+Riverside City College	CA	1,420
+New Mexico Junior College	NM	1,416
+Porterville College	CA	1,409
+Mt San Jacinto Community College District	CA	1,406
+Cerritos College	CA	1,404
+Hartnell College	CA	1,400
+College of the Sequoias	CA	1,394
+Moorpark College	CA	1,394
+Oxnard College	CA	1,394
+Ventura College	CA	1,394
+College of the Desert	CA	1,383
+Cerro Coso Community College	CA	1,382
+West Hills College-Coalinga	CA	1,380
+West Hills College-Lemoore	CA	1,380
+Clovis Community College	NM	1,376
+Santa Barbara City College	CA	1,374
+Eastern New Mexico University Ruidoso Branch Community College	NM	1,372
+Butte College	CA	1,368
+Canada College	CA	1,362
+San Jose City College	CA	1,362
+Mt San Antonio College	CA	1,350
+Palomar College	CA	1,344
+Cuyamaca College	CA	1,340
+Southwestern College	CA	1,340
+Cuesta College	CA	1,338
+Grossmont College	CA	1,332
+Saddleback College	CA	1,330
+San Bernardino Valley College	CA	1,328
+Santa Rosa Junior College	CA	1,324
+Contra Costa College	CA	1,312
+Diablo Valley College	CA	1,312
+Los Medanos College	CA	1,312
+Clovis Community College	CA	1,304
+Fresno City College	CA	1,304
+Reedley College	CA	1,304
+American River College	CA	1,288
+Cosumnes River College	CA	1,288
+Folsom Lake College	CA	1,288
+Palo Verde College	CA	1,288
+Sacramento City College	CA	1,288
+San Joaquin Delta College	CA	1,288
+New Mexico State University-Carlsbad	NM	1,276
+Cabrillo College	CA	1,270
+Columbia College	CA	1,270
+East Los Angeles College	CA	1,238
+Los Angeles City College	CA	1,238
+Los Angeles Harbor College	CA	1,238
+Los Angeles Mission College	CA	1,238
+Los Angeles Pierce College	CA	1,238
+Los Angeles Southwest College	CA	1,238
+Los Angeles Trade Technical College	CA	1,238
+Los Angeles Valley College	CA	1,238
+Pasadena City College	CA	1,212
+Mission College	CA	1,200
+Ohlone College	CA	1,196
+Citrus College	CA	1,194
+Allan Hancock College	CA	1,188
+Orange Coast College	CA	1,188
+Golden West College	CA	1,186
+Chaffey College	CA	1,180
+Merced College	CA	1,180
+Crafton Hills College	CA	1,178
+Monterey Peninsula College	CA	1,178
+Glendale Community College	CA	1,175
+Las Positas College	CA	1,168
+Berkeley City College	CA	1,167
+College of Alameda	CA	1,167
+Laney College	CA	1,167
+Merritt College	CA	1,167
+Gavilan College	CA	1,166
+City College of San Francisco	CA	1,165
+Coastline Community College	CA	1,160
+College of the Canyons	CA	1,156
+Santiago Canyon College	CA	1,156
+Sierra College	CA	1,156
+Fullerton College	CA	1,154
+Chabot College	CA	1,150
+Napa Valley College	CA	1,150
+College of the Redwoods	CA	1,147
+Irvine Valley College	CA	1,146
+El Camino Community College District	CA	1,144
+San Diego City College	CA	1,144
+San Diego Miramar College	CA	1,144
+Compton College	CA	1,142
+Lake Tahoe Community College	CA	1,131
+Instituto Tecnologico de Puerto Rico-Recinto de Ponce	PR	1,130
+Yuba College	CA	1,128
+Lassen Community College	CA	1,127
+Imperial Valley College	CA	1,126
+Woodland Community College	CA	1,124
+Copper Mountain Community College	CA	1,112
+Barstow Community College	CA	1,104
+Taft College	CA	1,104
+Southwestern Indian Polytechnic Institute	NM	1,095
+Luna Community College	NM	1,010
+Tohono O'odham Community College	AZ	932
+Emory University-Oxford College	GA	53,868
+American Academy of Dramatic Arts-Los Angeles	CA	37,230
+American Academy of Dramatic Arts-New York	NY	37,230
+Valley Forge Military College	PA	30,975
+Lawrence Memorial Hospital School of Nursing	MA	30,240
+Williamson College of the Trades	PA	28,320
+Harcum College	PA	26,000
+Delaware College of Art and Design	DE	25,770
+The Landing School	ME	25,012
+JFK Muhlenberg Harold B. and Dorothy A. Snyder Schools	NJ	24,107
+Holy Name Medical Center-Sister Claire Tynan School of Nursing	NJ	24,032
+St Joseph School of Nursing	NH	22,764
+Academy of Interactive Entertainment	WA	22,750
+Academy of Interactive Entertainment	LA	22,750
+St. Joseph's College of Nursing	NY	22,156
+Saint Elizabeth School of Nursing	IN	20,064
+Johnson College	PA	20,025
+Geisinger-Lewistown Hospital School of Nursing	PA	19,810
+Louisburg College	NC	19,795
+Circle in the Square Theatre School	NY	19,540
+Ancilla College	IN	19,320
+Mercyhurst University-North East Campus	PA	19,120
+Saint Elizabeth College of Nursing	NY	18,570
+Bolivar Technical College	MO	18,360
+American Academy McAllister Institute of Funeral Service	NY	18,292
+Texas County Technical College	MO	18,240
+Remington College-Baton Rouge Campus	LA	17,849
+Morrison Institute of Technology	IL	17,400
+Neighborhood Playhouse School of the Theater	NY	17,200
+Pomeroy College of Nursing at Crouse Hospital	NY	17,148
+Pittsburgh Institute of Aeronautics	PA	16,650
+Remington College-Nashville Campus	TN	16,565
+Northwest School of Wooden Boat Building	WA	16,050
+Remington College-Houston Southeast Campus	TX	15,979
+Altierus Career College-Bissonnet	TX	15,594
+Altierus Career College-Norcross	GA	15,594
+Altierus Career College-Tampa	FL	15,594
+Remington College-Cleveland Campus	OH	15,561
+UPMC Mercy School of Nursing	PA	15,545
+UPMC Shadyside School of Nursing	PA	15,545
+UPMC St. Margaret School of Nursing	PA	15,545
+Remington College-Lafayette Campus	LA	15,240
+Rosedale Technical College	PA	15,125
+City College-Altamonte Springs	FL	15,056
+Remington College-Fort Worth Campus	TX	14,985
+Chatfield College	OH	14,957
+City College-Hollywood	FL	14,876
+Samaritan Hospital School of Nursing	NY	14,292
+Young Americans College of the Performing Arts	CA	14,030
+Elyon College	NY	14,020
+St. Peter's Hospital College of Nursing	NY	13,911
+Pennsylvania Institute of Technology	PA	13,905
+Studio Incamminati	PA	13,885
+Sunstate Academy-Jones Technical Institute	FL	13,689
+Helms College	GA	13,460
+The Ailey School	NY	13,365
+Commonwealth Institute of Funeral Service	TX	13,363
+UPMC Jameson School of Nursing	PA	13,051
+Dallas Institute of Funeral Service	TX	12,790
+MacCormac College	IL	12,700
+ASPIRA City College	PA	12,097
+Montefiore School of Nursing	NY	12,067
+Gupton Jones College of Funeral Service	GA	11,970
+New York Seminary	NY	11,900
+Portland Actors Conservatory	OR	11,900
+Seminary Bnos Chaim	NJ	11,900
+Baptist Health College Little Rock	AR	11,750
+John A Gupton College	TN	11,583
+Word of Life Bible Institute	NY	11,204
+Gather 4 Him Christian College	WA	11,175
+Derech Hachaim Seminary	NY	11,000
+Reading Hospital School of Health Sciences	PA	10,905
+Belanger School of Nursing	NY	10,664
+Western Pennsylvania Hospital School of Nursing	PA	10,207
+Elim Bible Institute and College	NY	9,980
+Seminar L'moros Bais Yaakov	NY	9,850
+Community Christian College	CA	9,750
+Trinity Health System School of Nursing	OH	9,411
+William R Moore College of Technology	TN	8,848
+Rosedale Bible College	OH	8,756
+Alaska Christian College	AK	8,414
+Valor Christian College	OH	8,410
+Bnos Zion Of Bobov Seminary	NY	8,400
+Wave Leadership College	VA	8,390
+Ohel Margulia Seminary	NY	8,300
+Jacksonville College-Main Campus	TX	8,000
+School of Professional Horticulture, New York Botanical Garden	NY	8,000
+Graham Hospital School of Nursing	IL	7,943
+Trinity College of Puerto Rico	PR	7,678
+Commonwealth Technical Institute	PA	7,664
+Urban College of Boston	MA	7,124
+Shorter College	AR	5,596
+White Earth Tribal and Community College	MN	4,568
+Ensign College	UT	3,550
+Blackfeet Community College	MT	3,370
+New York Conservatory for Dramatic Arts	NY	34,400
+Aviator College of Aeronautical Science and Technology	FL	31,211
+Fortis Institute-Scranton	PA	28,087
+Hawaii Medical College	HI	26,037
+Swedish Institute a College of Health Sciences	NY	24,040
+Worsham College of Mortuary Science	IL	23,800
+Elmira Business Institute	NY	22,850
+Joffrey Ballet School	NY	21,500
+Meredith Manor International Equestrian Center	WV	21,230
+St Paul's School of Nursing-Queens	NY	20,871
+Hussian College-Daymar College Columbus	OH	20,724
+FINE Mortuary College	MA	20,520
+Southeastern College-West Palm Beach	FL	20,246
+Theatre of Arts	CA	19,800
+Miami Ad School	FL	19,400
+Miami Ad School-Atlanta	GA	19,400
+Miami Ad School-New York	NY	19,400
+Miami Ad School-San Francisco	CA	19,400
+Premiere International College	FL	19,289
+Triangle Tech-Chambersburg	PA	19,183
+Hondros College of Nursing	OH	18,847
+South Hills School of Business & Technology	PA	18,475
+Triangle Tech Inc-Sunbury	PA	17,933
+Future-Tech Institute	FL	17,863
+Triangle Tech Inc-Bethlehem	PA	17,834
+Triangle Tech Inc-Dubois	PA	17,800
+Triangle Tech Inc-Pittsburgh	PA	17,792
+Culinary Institute Inc	TX	17,782
+Triangle Tech Inc-Greensburg	PA	17,758
+Douglas Education Center	PA	17,750
+St Paul's School of Nursing-Staten Island	NY	17,731
+Fortis Institute-Port Saint Lucie	FL	17,618
+Colorado Academy of Veterinary Technology	CO	17,354
+Penn Commercial Business/Technical School	PA	17,313
+KD Conservatory College of Film and Dramatic Arts	TX	17,187
+Island Drafting and Technical Institute	NY	16,950
+Professional Golfers Career College	CA	16,844
+Eastwick College-Hackensack	NJ	16,797
+Aviation Institute of Maintenance-Dallas	TX	16,757
+Aviation Institute of Maintenance-Fremont	CA	16,757
+Aviation Institute of Maintenance-Houston	TX	16,757
+Aviation Institute of Maintenance-Indianapolis	IN	16,757
+Aviation Institute of Maintenance-Kansas City	MO	16,757
+Aviation Institute of Maintenance-Las Vegas	NV	16,757
+Aviation Institute of Maintenance-Manassas	VA	16,757
+Aviation Institute of Maintenance-Norfolk	VA	16,757
+Aviation Institute of Maintenance-Orlando	FL	16,757
+Aviation Institute of Maintenance-Philadelphia	PA	16,757
+Myotherapy Institute	NE	16,750
+Teterboro School of Aeronautics	NJ	16,737
+Stautzenberger College-Brecksville	OH	16,699
+Stautzenberger College-Maumee	OH	16,699
+Stautzenberger College-Rockford Career College	IL	16,699
+Aviation Institute of Maintenance-Atlanta	GA	16,657
+Aviation Institute of Maintenance-Charlotte	NC	16,657
+Centura College-Newport News	VA	16,637
+Centura College-Norfolk	VA	16,637
+Centura College-Richmond Main	VA	16,637
+Saint Michael College of Allied Health	DC	16,325
+Bryan University	AR	16,181
+Fortis College-Norfolk	VA	15,977
+Fortis College-Columbus	OH	15,872
+Arizona College-Glendale	AZ	15,841
+Arizona College-Mesa	AZ	15,841
+Vista College	TX	15,825
+Southside College of Health Sciences	VA	15,813
+Eastwick College-Nutley	NJ	15,806
+Fortis Institute-Nashville	TN	15,764
+Fortis College-Salt Lake City	UT	15,524
+International College of Broadcasting	OH	15,520
+Fortis College-Cutler Bay	FL	15,414
+California Institute of Arts & Technology	CA	15,390
+California Institute of Arts & Technology-National City	CA	15,390
+Fox College	IL	15,340
+Cambridge Institute of Allied Health & Technology	FL	15,330
+Fortis Institute-Cookeville	TN	15,325
+Fortis College-Landover	MD	15,211
+Vet Tech Institute	PA	15,140
+Fortis College-Cincinnati	OH	15,112
+Pittsburgh Career Institute	PA	15,064
+Fortis College-Orange Park	FL	15,060
+Fortis College-Baton Rouge	LA	15,030
+Vet Tech Institute of Houston	TX	15,020
+Fortis College-Indianapolis	IN	14,988
+Mildred Elley-New York Campus	NY	14,973
+Cambridge College of Healthcare & Technology	FL	14,908
+Las Vegas College	NV	14,903
+Erie Institute of Technology Inc	PA	14,839
+Fortis College-Smyrna	GA	14,630
+Mandl School-The College of Allied Health	NY	14,600
+Jna Institute of Culinary Arts	PA	14,575
+Louisiana Culinary Institute	LA	14,575
+Fortis College-Centerville	OH	14,543
+Ohio Valley College of Technology	OH	14,497
+Fortis College-Cuyahoga Falls	OH	14,421
+Carnegie Institute	MI	14,402
+IBMC College	CO	14,400
+West Virginia Junior College-Bridgeport	WV	14,396
+West Virginia Junior College-Charleston	WV	14,335
+Fortis Institute-Pensacola	FL	14,244
+Spartan College of Aeronautics and Technology	CO	14,199
+Birthwise Midwifery School	ME	14,130
+Davis College	OH	14,130
+Fortis College-Columbia	SC	14,109
+International Business College-Indianapolis	IN	13,960
+West Virginia Junior College-Morgantown	WV	13,950
+Fortis Institute-Forty Fort	PA	13,921
+Apex College of Veterinary Technology	CO	13,750
+Fortis Institute-Birmingham	AL	13,649
+Fortis College-Richmond	VA	13,557
+Mildred Elley School-Albany Campus	NY	13,509
+ATA Career Education	FL	13,480
+Advanced Technology Institute	VA	13,200
+ATA College	KY	13,120
+ATA College-Cincinnati	OH	13,120
+South Coast College	CA	13,073
+College of Business and Technology-Cutler Bay	FL	13,050
+College of Business and Technology-Hialeah	FL	13,050
+College of Business and Technology-Main Campus	FL	13,050
+West Virginia Junior College-United Career Institute	PA	12,889
+MIAT College of Technology	MI	12,838
+Professional Skills Institute	OH	12,767
+Bel-Rea Institute of Animal Technology	CO	12,338
+West Virginia Junior College-United Career Institute	PA	12,164
+Taylor College	FL	12,039
+Houston International College Cardiotech Ultrasound School	TX	11,868
+Lansdale School of Business	PA	11,850
+Universal College of Healing Arts	NE	11,327
+ITI Technical College	LA	11,156
+Laurel Business Institute	PA	10,912
+Laurel Technical Institute	PA	10,912
+Laurel Technical Institute	PA	10,912
+Interactive College of Technology-Gainesville	GA	10,850
+Interactive College of Technology-Morrow	GA	10,850
+Sessions College for Professional Design	AZ	10,740
+Chattanooga College Medical Dental and Technical Careers	TN	10,690
+Taylor Business Institute	IL	10,650
+Sonoran Desert Institute	AZ	10,630
+ETI Technical College	OH	10,460
+Long Island Business Institute	NY	10,416
+Interactive College of Technology-Chamblee	GA	10,250
+Interactive College of Technology	TX	10,010
+College of Court Reporting Inc	IN	9,950
+Gwinnett College-Lilburn	GA	9,925
+Central California School of Continuing Education	CA	9,895
+Interactive College of Technology	TX	9,890
+Interactive College of Technology	TX	9,890
+Interactive College of Technology-Newport	KY	9,890
+Mech-Tech College	PR	9,618
+Huntington Junior College	WV	9,600
+Ohio Business College-Sandusky	OH	9,385
+Ohio Business College-Sheffield	OH	9,385
+Global Tech College	OH	8,415
+Mountain State College	WV	8,215
+American Educational College	PR	7,250
+Los Angeles Pacific College	CA	7,030
+ICPR Junior College	PR	7,010
+ICPR Junior College	PR	7,010
+ICPR Junior College-Arecibo	PR	7,010
+ICPR Junior College-Mayaguez	PR	7,010
+Colegio de Cinematografía Artes y Television	PR	6,660
+Veeb Nassau County School of Practical Nursing	NY	18,730
+Jefferson Lewis BOCES-Practical Nursing Program	NY	18,561
+Four Rivers Career Center	MO	16,545
+Northern Career Institute	OH	14,500
+Cayuga Onondaga BOCES-Practical Nursing Program	NY	11,515
+Choffin Career  and Technical Center	OH	8,200
+Washburn Institute of Technology	KS	8,160
+John D Rockefeller IV Career Center	WV	8,046
+Michigan Career and Technical Institute	MI	7,596
+Ben Franklin Career Center	WV	6,192
+Lake Career and Technical Center	MO	4,850
+Ridge Technical College	FL	3,918
+United Technical Center	WV	3,900
+Traviss Technical College	FL	2,985
+Charlotte Technical College	FL	2,909
+Northwest Technical Institute	AR	2,326
+Heritage Valley Kennedy School of Nursing	PA	20,275
+Precision Manufacturing Institute	PA	15,662
+Great Lakes Boat Building School	MI	13,000
+Ohio Institute of Allied Health	OH	12,429
+Marion S Whelan School of Nursing of Geneva General Hospital	NY	10,725
+National Conservatory of Dramatic Arts	DC	9,900
+St. Louis Med Tech	MO	9,900
+Dorsey School of Business	MI	31,080
+Dorsey School of Business-Roseville	MI	31,080
+Dorsey School of Business-Saginaw	MI	31,080
+Dorsey School of Business-Wayne	MI	31,080
+Institute of Medical Ultrasound	GA	28,100
+Falcon Institute of Health and Science	PA	23,140
+Dorsey School of Business-Roseville Culinary Academy	MI	22,180
+Dorsey School of Business-Dearborn	MI	22,000
+Joe Kubert School of Cartoon and Graphic Art	NJ	21,755
+Dorsey School of Business-Woodhaven Campus	MI	21,290
+MDT College of Health Sciences	OH	19,673
+Medical Career College of Northern California	CA	19,576
+Dayton School of Medical Massage	OH	17,670
+Porter and Chester Institute of Hamden	CT	17,590
+Porter and Chester Institute of Stratford	CT	17,590
+Tidewater Tech-Trades	VA	16,337
+Sharon Regional School of Nursing	PA	16,216
+Mildred Elley-Pittsfield Campus	MA	15,301
+Institute of Health Sciences	MD	15,100
+Escuela Hotelera de San Juan	PR	14,255
+Colorado School of Healing Arts	CO	11,550
+Caribbean Aviation Training Institute Inc	PR	11,065
+South Texas Training Center	TX	10,695
+Liceo de Arte-Dise-O y Comercio	PR	10,434
+Estelle Medical Academy	IL	8,680
+Automeca Technical College-Aguadilla	PR	7,701
+Automeca Technical College-Bayamon	PR	7,695
+Automeca Technical College-Caguas	PR	7,695
+Automeca Technical College-Ponce	PR	7,695
+Century College	PR	7,375
+Bayamon Community College	PR	7,145
+PPG Technical College	PR	7,100
+Industrial Technical College	PR	7,020
+Caribbean Forensic and Technical College	PR	6,460
+Rosslyn Training Academy of Cosmetology	PR	6,397
+Royal Learning Institute	NY	6,100
